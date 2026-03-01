@@ -1,76 +1,76 @@
-# Workflow Backup e Branch (Migrazione Weebly)
+# Backup and Branch Workflow (Weebly Migration)
 
-Questo documento definisce il modo in cui lavoriamo per mantenere:
+This document defines how we keep:
 
-1. `master` stabile (GitHub Pages: solo pagina statica "dominio registrato")
-2. backup continuo su GitHub del lavoro di migrazione
-3. separazione netta tra "sito live" e "lavoro in corso"
+1. `master` stable (GitHub Pages: static "domain registered" page only)
+2. continuous GitHub backup for migration work
+3. a clear separation between "live site" and "work in progress"
 
-## Regola principale
+## Main rule
 
-- `master` resta dedicato al sito live minimale.
-- Tutta la migrazione Weebly vive su branch dedicati (esempio: `work/migrazione-weebly`).
+- `master` stays dedicated to the minimal live site.
+- All Weebly migration work stays on dedicated branches (for example: `work/migrazione-weebly`).
 
-## Cosa non fare
+## What not to do
 
-- Non fare commit/push della migrazione su `master`.
-- Non cambiare workflow Pages su `master` per puntare alla migrazione.
+- Do not commit/push migration content to `master`.
+- Do not repoint the Pages workflow on `master` to migration content.
 
-## Cosa fare sempre
+## What to do every time
 
-1. Creare/usare un branch di lavoro:
-   - `git switch -c work/migrazione-weebly` (prima volta)
-   - `git switch work/migrazione-weebly` (volte successive)
-2. Committare in modo frequente.
-3. Pushare il branch su GitHub per backup:
-   - `git push -u origin work/migrazione-weebly` (prima volta)
-   - `git push` (poi)
+1. Create/use a dedicated work branch:
+   - `git switch -c work/migrazione-weebly` (first time)
+   - `git switch work/migrazione-weebly` (next times)
+2. Commit frequently.
+3. Push the work branch to GitHub for backup:
+   - `git push -u origin work/migrazione-weebly` (first push)
+   - `git push` (next pushes)
 
-## Struttura attuale (WIP)
+## Current structure (WIP)
 
-- Sito live (master): `hugo/`
-- Mirror statico locale: `hugo-mirror/`
-- Ricostruzione markdown: `hugo-weebly-md/`
-- Sorgente mirror: `mirror-source/`
-- Script: `scripts/`
-- Note/report migrazione: `docs/`
+- Live site (`master`): `hugo/`
+- Local static mirror: `hugo-mirror/`
+- Markdown reconstruction: `hugo-weebly-md/`
+- Mirror source files: `mirror-source/`
+- Scripts: `scripts/`
+- Migration notes/reports: `docs/`
 
-## Comandi operativi utili
+## Useful operational commands
 
-Build migrazione markdown:
+Rebuild markdown migration:
 
 ```bash
 ./scripts/rebuild-weebly-markdown-site
 ```
 
-Fidelity check:
+Run fidelity check:
 
 ```bash
 ./scripts/check-weebly-fidelity.py
 ```
 
-Split recensioni:
+Split reviews:
 
 ```bash
 ./scripts/split-recensioni-pages.py
 ```
 
-Preview locale migrazione:
+Preview migration locally:
 
 ```bash
 hugo server --source /home/federico/Codex/aburati.github.io/hugo-weebly-md --port 1315 --bind 127.0.0.1
 ```
 
-## Checklist prima del push del branch di lavoro
+## Checklist before pushing the work branch
 
-1. Build ok (`hugo-weebly-md`).
-2. Nessun file temporaneo non desiderato.
-3. Commit con messaggio chiaro (pagina/sezione migrata + note QA).
+1. Build passes (`hugo-weebly-md`).
+2. No unwanted temporary files.
+3. Clear commit message (migrated page/section + QA notes).
 
-## Quando pubblicare online la migrazione
+## When to publish migration online
 
-Solo su tua decisione esplicita:
+Only after explicit approval:
 
-1. review contenuti completata
-2. approvazione finale
-3. piano di merge/deploy separato da questo workflow
+1. content review completed
+2. final approval
+3. merge/deploy plan handled separately from this workflow
