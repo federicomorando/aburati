@@ -1,0 +1,39 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [[ "${1:-}" == "-h" || "${1:-}" == "--help" ]]; then
+  cat <<'EOF'
+Usage:
+  ./publish-site
+  ./publish-site "Commit message"
+
+Stages all changes, creates a commit, and pushes to origin/master.
+If no message is provided, you will be prompted for one.
+EOF
+  exit 0
+fi
+
+repo_root="$(cd "$(dirname "$0")" && pwd)"
+cd "$repo_root"
+
+git add -A
+
+if git diff --cached --quiet; then
+  echo "No staged changes to commit."
+  exit 0
+fi
+
+commit_msg="${1:-}"
+if [[ -z "$commit_msg" ]]; then
+  read -r -p "Commit message: " commit_msg
+fi
+
+if [[ -z "${commit_msg// }" ]]; then
+  echo "Commit message cannot be empty."
+  exit 1
+fi
+
+git commit -m "$commit_msg"
+git push origin master
+
+echo "Published successfully."

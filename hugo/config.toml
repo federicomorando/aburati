@@ -1,0 +1,10 @@
+baseURL = "https://aburati.com/"
+languageCode = "it"
+title = "aburati.com"
+defaultContentLanguage = "it"
+timeZone = "Europe/Rome"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+[outputs]
+  home = ["HTML"]
