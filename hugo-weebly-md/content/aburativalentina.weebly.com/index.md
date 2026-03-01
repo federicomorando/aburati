@@ -17,11 +17,11 @@ e quindi...<br>
 <br>
 - Se cercate il mio <a alt="Blog" href="http://valentinaversion.weebly.com/" target="_blank" title="LinkedIn">blog</a>... finalmente c'è. Se proprio lo volete potrete rimanere folgorati dalla mia ironia, dalla mia visione disincantata del mondo, dal mio sarcasmo... non vi interessa? Pazienza: sono sicura che sopravviverete ;)<br>
 <br>
-- Se invece volete le mie <a href="le-mie-ricette.html">ricette</a>, siete nel posto giusto! <br>
+- Se invece volete le mie <a href="/aburativalentina.weebly.com/le-mie-ricette.html">ricette</a>, siete nel posto giusto! <br>
 <br>
 Perché qualcuno dovrebbe volere le mie ricette? Forse è stato mio ospite a cena, si è innamorato della mia cucina, ma magari ha delle idee geniali per migliorarle, oppure quel qualcuno sono io e sono solo stanca di perderle e non ritrovarle dopo averle scritte su dei meravigliosi foglietti. Suggerimenti e commenti, anche distruttivi sono ben accetti.<br>
 <br>
-Il sito comunque non è democratico: se volete dire qualcosa per voi c'è solo l'area <a href="commenti.html">commenti</a>, ma non so se ne troverete molti..<br>
+Il sito comunque non è democratico: se volete dire qualcosa per voi c'è solo l'area <a href="/aburativalentina.weebly.com/commenti.html">commenti</a>, ma non so se ne troverete molti..<br>
 <br>
 <br>
 <br>
@@ -42,16 +42,16 @@ Il sito comunque non è democratico: se volete dire qualcosa per voi c'è solo l
 						
 
 <div><div id="148813690188108342" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a href="http://www.weebly.com/weebly/main.php"><h2><b>Ricette</h2></b></a>
-<a href="antipasti.html"><b>Antipasti</b></a><br>
-<a href="primi.html"><b>Primi</b></a><br>
-<a href="secondi.html"><b>Secondi</b></a><br>
-<a href="contorni.html"><b>Contorni</b></a><br>
-<a href="dolci.html"><b>Dolci</b></a><br>
-<a href="trucchi--consigli.html"><b>Consigli</b></a><br>
-<a href="ricette-di-base.html"><b>Ricette di base</b></a><br>
-<a href="ricette-che-non-ho-ancora-provato.html"><b>Ricette da provare</b></a><br>
-<a href="ricette-che-vorrei-trovare.html"><b>Ricette che cerco</b></a><br>
-<a href="bimby.html"><b>Bimby</b></a><br></div>
+<a href="/aburativalentina.weebly.com/antipasti.html"><b>Antipasti</b></a><br>
+<a href="/aburativalentina.weebly.com/primi.html"><b>Primi</b></a><br>
+<a href="/aburativalentina.weebly.com/secondi.html"><b>Secondi</b></a><br>
+<a href="/aburativalentina.weebly.com/contorni.html"><b>Contorni</b></a><br>
+<a href="/aburativalentina.weebly.com/dolci.html"><b>Dolci</b></a><br>
+<a href="/aburativalentina.weebly.com/trucchi--consigli.html"><b>Consigli</b></a><br>
+<a href="/aburativalentina.weebly.com/ricette-di-base.html"><b>Ricette di base</b></a><br>
+<a href="/aburativalentina.weebly.com/ricette-che-non-ho-ancora-provato.html"><b>Ricette da provare</b></a><br>
+<a href="/aburativalentina.weebly.com/ricette-che-vorrei-trovare.html"><b>Ricette che cerco</b></a><br>
+<a href="/aburativalentina.weebly.com/bimby.html"><b>Bimby</b></a><br></div>
 
 
 
@@ -61,11 +61,11 @@ Il sito comunque non è democratico: se volete dire qualcosa per voi c'è solo l
 <hr class="styled-hr" style="width:100%;"></hr>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
 
-<div><div id="967821098551822675" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a href="recensioni-di-ristoranti.html"><h2><b>Recensioni</h2></b></a>
-<a href="piemonte.html"><b>Piemonte</b></a><br>
-<a href="giapponesi-in-piemonte.html"><b>Giappo in Piemonte</b></a><br><a href="nord-italia.html"><b>Nord Italia</b></a><br>
-<a href="sud-italia.html"><b>Sud Italia</b></a><br>
-<a href="estero.html"><b>Estero</b></a><br>
+<div><div id="967821098551822675" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a href="/aburativalentina.weebly.com/recensioni-di-ristoranti.html"><h2><b>Recensioni</h2></b></a>
+<a href="/aburativalentina.weebly.com/piemonte.html"><b>Piemonte</b></a><br>
+<a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html"><b>Giappo in Piemonte</b></a><br><a href="/aburativalentina.weebly.com/nord-italia.html"><b>Nord Italia</b></a><br>
+<a href="/aburativalentina.weebly.com/sud-italia.html"><b>Sud Italia</b></a><br>
+<a href="/aburativalentina.weebly.com/estero.html"><b>Estero</b></a><br>
 <br>
 <br>
 <br></div>
@@ -74,7 +74,7 @@ Il sito comunque non è democratico: se volete dire qualcosa per voi c'è solo l
 
 </div>
 
-<div><div id="799064730356966419" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/it/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ogni cosa ha un suo posto</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="index.html" property="cc:attributionName" rel="cc:attributionURL">Valentina Aburati</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/">Creative Commons Attribuzione - Condividi allo stesso modo 3.0 Italia License</a>.<br></div>
+<div><div id="799064730356966419" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/"><img alt="Licenza Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/it/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ogni cosa ha un suo posto</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="/aburativalentina.weebly.com/index.html" property="cc:attributionName" rel="cc:attributionURL">Valentina Aburati</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/it/">Creative Commons Attribuzione - Condividi allo stesso modo 3.0 Italia License</a>.<br></div>
 
 
 

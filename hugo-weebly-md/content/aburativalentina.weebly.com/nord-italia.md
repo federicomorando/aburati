@@ -5,8 +5,8 @@ source_file: "nord-italia.html"
 ---
 
 <div><div id="257204455302640438" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="nord-italia.html#farinata">Savona: VINO E FARINATA</a><br>
-<a href="nord-italia.html#arnaldo">Rubiera: ARNALDO</a><br><br></div>
+<a href="/recensioni/nord-italia/vino-e-farinata-savona.html">Savona: VINO E FARINATA</a><br>
+<a href="/recensioni/nord-italia/arnaldo-rubiera.html">Rubiera: ARNALDO</a><br><br></div>
 
 
 
@@ -24,7 +24,7 @@ Ma qui quello che conta è il mangiare, non di certo il posto.<br>
 Avete ordinato? allora avete quasi sicuramente davanti una bottiglia o una caraffa di "nostralino" (il vino rosato della casa) e probabilmente una porzione di farinata bianca (di grano) ed una di farinata di ceci (se volete ve la servono nella carta e potete anche mangiarla per strada) di certo una delle migliori di Savona (e quindi... ). Consiglio: non esagerate mai con la farinata, prendetela per metà delle persone che sono a tavola, altrimenti vi abbuffate e non c'è più posto per il pesce. E poi si comincia davvero: la frittura con un misto di pescetti che forse non avete mai visto in vita, le acciughe ripiene, le acciughe marinate, il minestrone alla genovese, i moscardini alla diavola, polpo in umido, pesce alla griglia (a seconda del pescato del giorno), ecc ecc. I primi non mi entusiasmano e se volete un servizio in guanti bianchi avete proprio sbagliato locale (il ristorante è anche un po' rumoroso), ma per il resto.... Il servizio è veloce ed efficiente, anche se minimale: per ogni cosa aspettatevi di leccarvi le dita, ma non che vi cambino il piatto (di solito arrivano dei vassoi da portata con le porzioni destinate al vostro tavolo, voi avete il vostro piattino davanti e vi servite da soli, dividendo con gli altri commensali). Insomma un posto che va vissuto con tutti gli aspetti conviviali del caso e soprattutto in grandi tavolate per prendere più stuzzichini diversi da spartirsi in compagnia, un po' alla spagnola. Attenzione che come citava una canzone "il vino è fresco e va giù bene" e poi siete a Savona e vi tocca tornare a casa in macchina: meglio che qualcuno stia un po' attento. Ottimo, dicevamo, per le serate in compagnia che però si fermano al "dolce" (e che dolce: semifreddo al mandarino o semifreddo al limone serviti nel loro frutto e STOP), dopo di che fuori dal locale a fare due passi e cercare di "smaltire". 
 Non provate a chiedere il caffè, per carità! Non hanno nemmeno la macchinetta per farlo! Ma una persona che conosco spesso mi cita questa frase: "non si mangia dove si dorme e non si prende il caffè dove si mangia" e qui ci tengono al rispetto di questa regola aurea. Quindi il caffè andate a prenderlo al bar dietro l'angolo, tanto liberate prima il tavolo per chi è in coda e nonostante sia tarda ora non demorde e continua ad aspettare. I costi? Se siete in due 25/30€ a testa, se siete in tanti un po' di meno per uscire decisamente satolli. Avete tirato fuori la carta di credito?? Ma non avete capito dove siete? Si paga solo in contanti!
 <br><br>
-<div style="text-align:right"><a href="nord-italia.html#indice">Nord Italia</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/nord-italia.html#indice">Nord Italia</a></div></div>
 
 
 
@@ -38,7 +38,7 @@ Entriamo.... un misto di terrore ci assale: ristorante rumoroso e strapieno con 
 Sigh, sob, sniff. Magari se l'ambiente non è dei migliori, ma hanno una stella. ERGO se l'ambiente non è all'altezza, la CUCINA DEVE ESSERE SUBLIME. Giusto? Forse no. Razionale? Si.<br>
 Ordiniamo le specialità: lasagne e bollito il marito, lasagne ed arrosti misti io. I piatti arrivano ad una velocità incredibile, va beh, le lasagne ne prepari una mega teglia e se hai tanti clienti la gestisci "tranquilla". Assaggiamo.... <b>assolutamente nulla da segnalare</b> o ricordare!!!! Se in casa avete un po' di dimestichezza con la cucina e trovate dei funghi buoni, non dubito possiate mangiarne di altrettanto buone. Per i bolliti e gli arrosti arriva il terribile carrellino. Eravamo preparati. Arrosti buoni, ma i bolliti... Mancava la coda e tutti i pezzi un po' particolari... Ed erano le 21:00 di sabato sera... non puoi avere a disposizione quasi solo la lingua ed il ginocchio!!! Carrello dei dolci molto "importante" forse la cosa migliore. Carta dei vini quasi inesistente ("Lambrusco fermo o frizzante?" Per di più portato al tavolo già aperto! :|). <br>Risultato? Decisamente negativo. <br>I nostri vicini (TROPPO VICINI) di tavolo erano entusiasti, ma forse non avevano mai mangiato le lasagne ed il bollito, che invece per noi sono piatti di tradizione.<br>
 Mi chiedo come abbiano fatto ad aggiudicarsi una stella Michelin... sicuramente è una "stella" alla storia ed alla tradizione. (Visitato nel 2011)<br><br>
-<div style="text-align:right"><a href="nord-italia.html#indice">Nord italia</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/nord-italia.html#indice">Nord italia</a></div></div>
 
 
 

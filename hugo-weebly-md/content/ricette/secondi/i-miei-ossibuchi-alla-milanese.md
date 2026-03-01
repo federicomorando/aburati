@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 7
 weight: 7
 pagina_origine: "secondi.html"
-ancora_origine: "ossibuchi"
+ancora_origine: "entry-7"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei OSSIBUCHI ALLA MILANESE</h2>
+
+<div><div id="905100242131801770" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="ossibuchi"></a>
 Una ricetta famosa e nota che fa sempre un certo effetto :)<br>
 <br>
 In una padella capiente mettete il burro e l'olio, unite la cipolla tritata finemente e lasciatela appassire a fuoco molto lento (attenzione a non farla bruciare!). <br>
@@ -66,9 +69,3 @@ La tradizione milanese vuole che questo gustoso piatto sia accompagnato con del 
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.209597141323%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">La mia ORATA LIMONE E ROSMARINO</h2>
-
-<div><div id="131633736922141570" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

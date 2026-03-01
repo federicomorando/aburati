@@ -8,7 +8,7 @@ tipo: "ricetta"
 ordine: 2
 weight: 2
 pagina_origine: "ricette-di-base.html"
-ancora_origine: "crespelle"
+ancora_origine: "entry-2"
 body_class: "no-header-page wsite-theme-light"
 ---
 
@@ -35,3 +35,4 @@ Rimescolate con la forchetta, ungete la crepiera con un panno carta da cucina sp
 
 <br>
 <br>
+<a name="pasticcera"></a>

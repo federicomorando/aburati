@@ -5,13 +5,13 @@ source_file: "primi.html"
 ---
 
 <div><div id="808545724489772687" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="primi.html#silvestro">Il mio RISOTTO VENERE DI SAN SILVESTRO</a><br>
-<a href="primi.html#limone">Il mio RISOTTO LIMONE E UVETTA</a><br>
-<a href="primi.html#bosco">Il mio RISO AI FRUTTI DI BOSCO</a><br>
-<a href="primi.html#gamberizucchini">Le mie PENNE GAMBERI, ZUCCHINI, ZAFFERANO</a><br>
-<a href="primi.html#cannellonipesce">I miei CANNELLONI DI PESCE</a><br>
-<a href="primi.html#cicalelenticchie">Le mie CICALE avvolte nel guanciale su zuppa densa di LENTICCHIE</a><br>
-<a href="primi.html#carciofi">La mia CREMA DI CARCIOFI LIGHT</a><br></div>
+<a href="/aburativalentina.weebly.com/primi.html#silvestro">Il mio RISOTTO VENERE DI SAN SILVESTRO</a><br>
+<a href="/ricette/primi/il-mio-risotto-limone-e-uvetta.html">Il mio RISOTTO LIMONE E UVETTA</a><br>
+<a href="/ricette/primi/il-mio-riso-ai-frutti-di-bosco.html">Il mio RISO AI FRUTTI DI BOSCO</a><br>
+<a href="/ricette/primi/le-mie-penne-gamberi-zucchini-zafferano.html">Le mie PENNE GAMBERI, ZUCCHINI, ZAFFERANO</a><br>
+<a href="/ricette/primi/i-miei-cannelloni-di-pesce.html">I miei CANNELLONI DI PESCE</a><br>
+<a href="/ricette/primi/le-mie-cicale-avvolte-nel-guanciale-su-zuppa-densa-di-lenticchie.html">Le mie CICALE avvolte nel guanciale su zuppa densa di LENTICCHIE</a><br>
+<a href="/aburativalentina.weebly.com/primi.html#carciofi">La mia CREMA DI CARCIOFI LIGHT</a><br></div>
 
 
 
@@ -87,7 +87,7 @@ Sfumate col vino bianco, lasciando evaporare l'alcool. Aggiungete quindi
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/2660011_orig.jpg" alt="Immagine" style="width:100%;max-width:408px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/2660011_orig.jpg" alt="Immagine" style="width:100%;max-width:408px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -99,7 +99,7 @@ Fate leggermente scottare le mazzancolle ed i ciuffi di calamari tenuti da parte
 <br>
 Buon appetito.<br>
 <br>
-<div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div></div>
 
 
 
@@ -163,7 +163,7 @@ Per quanto riguarda il <u>risotto</u>, invece, fate appassire in una casseruola 
 Sul finale di cottura aggiungete la scorza del limone e mentre è ancora all'onda aggiungete il formaggino o la sottiletta per la mantecatura (per i puristi si dovrebbe usare il burro, ma preferisco in questo modo). Pepate, togliete dal fuoco lasciate raffreddare pochi minuti ed inseritelo nei cestini di parmigiano.<br>
 Decorate a piacere con altro pepe, i dischetti di parmigiano rimasti ed eventualmente qualche pezzetto di scorza di limone.<br>
 <br>
-<div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div></div>
 
 
 
@@ -224,12 +224,12 @@ Servite con un paio di frutti di bosco accanto o sopra ed un vino profumato ed a
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/1471965_orig.jpg" alt="Immagine" style="width:100%;max-width:647px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/1471965_orig.jpg" alt="Immagine" style="width:100%;max-width:647px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
-<div><div id="221349559157748289" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div></div>
+<div><div id="221349559157748289" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div></div>
 
 
 
@@ -286,7 +286,7 @@ Scolate la pasta molto molto al dente (circa 2 minuti prima) e mettetela nella p
 Aggiustate di pepe e servite.<br>
 <br>
 <br>
-<div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div>
 </div>
 
 
@@ -336,7 +336,7 @@ Aggiustate di pepe e servite.<br>
 Capodanno semplice con cannelloni di pesce veloci veloci<br>
 
 <br>
-Preparate le <a href="ricette-di-base.html#crespelle">crespelle </a> (ad esempio seguite la ricetta di base se avete una crepiera elettrica partendo da circa metà dose rispetto a quella pubblicata) e la <a href="ricette-di-base.html#besciamella">besciamella</a> (anche qui la ricetta di base è ok, soprattutto con la sostituzione del brodo di pesce a parte del latte).<br>
+Preparate le <a href="/ricette/ricette-di-base/impasto-per-le-crespelle-con-crepiera-elettrica-ad-immersione.html">crespelle </a> (ad esempio seguite la ricetta di base se avete una crepiera elettrica partendo da circa metà dose rispetto a quella pubblicata) e la <a href="/ricette/ricette-di-base/besciamella.html">besciamella</a> (anche qui la ricetta di base è ok, soprattutto con la sostituzione del brodo di pesce a parte del latte).<br>
 <br>
 <i><u>Nota</u></i>: Per preparare il fumetto di pesce pulite scampi e pesce spada e mettete tutti gli scampi in una pentola in cui avrete in precedenza soffritto leggermente l'aglio e poi aggiungete qualche bicchiere di acqua fredda e portate ad ebollizione a fuoco lento: più bolle e meglio è.<br>
 <br>
@@ -347,7 +347,7 @@ Rimettete tutto in pentola e lasciate riposare e fate riassorbire i liquidi. Agg
 Fine<br>
 <br>
 <br>
-<div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div></div>
 
 
 
@@ -398,14 +398,14 @@ Fine<br>
 Prosieguo delle mie ricette veloci per un San Silvestro molto semplice<br>
 
 <br>
-Pulite bene le cicale e con gli scarti preparate il fumetto (se come me avete fatto anche i <a href="primi.html#cannellonipesce">cannelloni</a> o qualsiasi altra ricetta di pesce, unite gli scarti delle cicale agli altri e preparate una dose abbondante di fumetto... se vi avanza il giorno dopo potrete sempre preparare il risotto o far saltare la pasta ancora in parte cruda in una padella con un po' del fumetto). <br>
+Pulite bene le cicale e con gli scarti preparate il fumetto (se come me avete fatto anche i <a href="/ricette/primi/i-miei-cannelloni-di-pesce.html">cannelloni</a> o qualsiasi altra ricetta di pesce, unite gli scarti delle cicale agli altri e preparate una dose abbondante di fumetto... se vi avanza il giorno dopo potrete sempre preparare il risotto o far saltare la pasta ancora in parte cruda in una padella con un po' del fumetto). <br>
 Prendete una pentola coi bordi alti larga e preparate un po' di soffritto con la carota, il sedano e 1/2 scalogno. Aggiungete le lenticchie che avrete messo a bagno per un'oretta e poi sciacquato e scolato, l'alloro ed il vino. Lasciate sfumare leggermente e poi aggiungete un bicchiere di fumetto di pesce. Quando sarà quasi consumato mettete la salsa rubra (o la passata di pomodoro) ed un po' di acqua fino a coprire interamente le lenticchie. Fate cuocere per 20 minuti a fuoco lento, girando ogni tanto ed aggiustando eventualmente di sale. <br>
 Nel frattempo tritate due cicale con qualche fetta di guanciale ed avvolgete le altre nelle fette di guanciale rimasto. Aggiungete il trito di cicale e guanciale alle lenticchie e mescolate bene. <br>
 In una padella larga fate scottare le cicale avvolte nel guanciale in un filo appena visibile d'olio (in realtà devono consumare il grasso del guanciale) fino a quando il salume non apparirà dorato e croccante ed il crostaceo avrà perso la trasparenza. <br>
 Riprendete le lenticchie, che dovrebbero quasi essere pronte, pepate e frullatene una parte col frullatore ad immersione, avendo l'accortezza di frullare anche il guanciale che avevate aggiunto. Preparate i piatti, adagiando su uno specchio di lenticchie frullate e su cui avrete versato un po' di olio, le lenticchie intere e gli involtini di cicale. Servite ben caldo.<br>
 <br>
 <br>
-<div style="text-align:right"><a href="primi.html#indice">Indice primi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/primi.html#indice">Indice primi</a></div></div>
 
 
 

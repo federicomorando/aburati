@@ -8,11 +8,13 @@ tipo: "ricetta"
 ordine: 10
 weight: 10
 pagina_origine: "dolci.html"
-ancora_origine: "cheesecake"
+ancora_origine: "entry-10"
 body_class: "no-header-page wsite-theme-light"
 ---
 
-Sono molto incerta su questa torta, ma il riscontro odierno è stato positivo, quindi direi che con opportune modifiche si può ripetere...<br>
+<h2 class="wsite-content-title" style="text-align:left;">La mia CHEESECAKE ITALIANA<br /></h2>
+
+<div><div id="747916619393354112" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="cheesecake"></a>Sono molto incerta su questa torta, ma il riscontro odierno è stato positivo, quindi direi che con opportune modifiche si può ripetere...<br>
 <br>
 I puristi della Cheesecake newyorchese rimarranno delusi: qui si tratta della Mia Cheesecake, di una torta con solo prodotti italiani e pure cotta... Ma portare in casa nostra alcuni prodotti (come il philadelphia) sarebbe quasi sacrilego...<br>
 <br>
@@ -83,9 +85,3 @@ Per la <u>guarnizione</u>:<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.160738668333%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;"><a style="" href="dolci.html#albumi">La mia TORTA AL CACAO (e tanti albumi)</a></h2>
-
-<div><div id="498297407306047988" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

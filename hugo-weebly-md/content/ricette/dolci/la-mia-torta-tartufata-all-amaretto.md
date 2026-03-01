@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 3
 weight: 3
 pagina_origine: "dolci.html"
-ancora_origine: "tartufata"
+ancora_origine: "entry-3"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">La mia TORTA TARTUFATA ALL'AMARETTO</h2>
+
+<div><div id="161342901373206970" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="tartufata"></a>
 È uno dei piatti del veglione del 2010 :). Trovate il <a href="https://sites.google.com/site/aburativalentina/news">menu </a>nelle news del vecchio sito.
 
 <br>
@@ -33,7 +36,7 @@ Spolverate la torta col cacao (facendolo passare attraverso un colino a trama fi
 <br>
 Et voilà! Pronta!<br>
 <div style="text-align:right"><br>
-<a href="dolci.html#indice">Indice dolci</a></div>
+<a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div>
 </div>
 
 
@@ -75,9 +78,3 @@ Et voilà! Pronta!<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.335698599112%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei MUFFIN AL DOPPIO CIOCCOLATO</h2>
-
-<div><div id="861528675685151426" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

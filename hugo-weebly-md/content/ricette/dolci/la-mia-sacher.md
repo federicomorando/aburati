@@ -8,15 +8,18 @@ tipo: "ricetta"
 ordine: 6
 weight: 6
 pagina_origine: "dolci.html"
-ancora_origine: "sacher"
+ancora_origine: "entry-6"
 body_class: "no-header-page wsite-theme-light"
 ---
 
-La mia Sacher non è proprio quella che trovate a Vienna e non assomiglia nemmeno alla Demel... è la mia versione che tra l'altro prevede l'utilizzo di una marmellata diversa da quella di albicocche: a scelta si può farcire con la nostra <a href="dolci.html#marmellata">MARMELLATA DI MORE</a> o con la MARMELLATA DI LAMPONI (per cui non abbiamo ancora la ricetta, pur avendola già fatta). <br>
+<h2 class="wsite-content-title" style="text-align:left;">La mia SACHER</h2>
+
+<div><div id="810446303151170262" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="sacher"></a>
+La mia Sacher non è proprio quella che trovate a Vienna e non assomiglia nemmeno alla Demel... è la mia versione che tra l'altro prevede l'utilizzo di una marmellata diversa da quella di albicocche: a scelta si può farcire con la nostra <a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">MARMELLATA DI MORE</a> o con la MARMELLATA DI LAMPONI (per cui non abbiamo ancora la ricetta, pur avendola già fatta). <br>
 <br>
 Io uso sempre gli stampi in silicone (ed in questo caso non imburro), se usate stampi diversi e non utilizzate la carta da forno considerate 20 gr in aggiunta di burro ed altrettanti di farina per la teglia. Io non amo la carta da forno con la Sacher perché non riesco a fare i bordi regolari :).
 <br>
-Per prima cosa occorre lavorare il burro con lo zucchero fino ad ottenere un composto chiaro e spumoso. Separare i tuorli dagli albumi ed incorporarli uno alla volta al burro e zucchero. Mettere il cioccolato a bagnomaria con il latte e farlo fondere, portarlo a temperatura ambiente ed aggiungerlo al composto precedente, mescolando energicamente. Aggiungere la farina e lo zucchero vanigliato e continuare a mescolare fino ad ottenere un impasto omogeneo. A parte montare gli albumi a neve ben ferma (per farlo io seguo tre piccoli trucchi: lasciare le uova a temperatura ambiente qualche minuto, aggiungere un  pizzico di sale, utilizzare la frusta elettrica sempre nella stessa direzione partendo con la velocità minima ed aumentando lentamente). Unite i due composti mescolando il meno possibile dal basso verso l'alto e per ultimo aggiungete il lievito. Mi raccomando: il lievito nei composti liquidi va sempre alla fine e va lavorato poco. Se invece avete un composto asciutto (come nei miei <a href="dolci.html#muffin">MUFFIN AL DOPPIO CIOCCOLATO</a>) potete unirlo a tale composto e mescolarlo senza problemi, facendo solo attenzione a quando la parte secca viene a contatto con la parte umida.<br>
+Per prima cosa occorre lavorare il burro con lo zucchero fino ad ottenere un composto chiaro e spumoso. Separare i tuorli dagli albumi ed incorporarli uno alla volta al burro e zucchero. Mettere il cioccolato a bagnomaria con il latte e farlo fondere, portarlo a temperatura ambiente ed aggiungerlo al composto precedente, mescolando energicamente. Aggiungere la farina e lo zucchero vanigliato e continuare a mescolare fino ad ottenere un impasto omogeneo. A parte montare gli albumi a neve ben ferma (per farlo io seguo tre piccoli trucchi: lasciare le uova a temperatura ambiente qualche minuto, aggiungere un  pizzico di sale, utilizzare la frusta elettrica sempre nella stessa direzione partendo con la velocità minima ed aumentando lentamente). Unite i due composti mescolando il meno possibile dal basso verso l'alto e per ultimo aggiungete il lievito. Mi raccomando: il lievito nei composti liquidi va sempre alla fine e va lavorato poco. Se invece avete un composto asciutto (come nei miei <a href="/ricette/dolci/i-miei-muffin-al-doppio-cioccolato.html">MUFFIN AL DOPPIO CIOCCOLATO</a>) potete unirlo a tale composto e mescolarlo senza problemi, facendo solo attenzione a quando la parte secca viene a contatto con la parte umida.<br>
 Portate il forno a 180°, mettete il composto in una tortiera ed infornate per circa 40 minuti.<br>
 <br>
 Togliete la torta dal forno e lasciatela intiepidire, dopo averla sformata. Tagliatela per il largo (la vera Sacher prevede tre dischi con quello centrale più stretto, se decidete di seguire questa procedura, aumentate di 1/3 la marmellata). Cospargete il disco inferiore con un velo di marmellata, lasciandone da parte un cucchiaino. Mettete questo cucchiaino in un bicchiere con un po' d'acqua, mescolate bene e con questo composto spennellate la torta lungo tutta la superficie.<br>
@@ -66,9 +69,3 @@ Fate fondere il cioccolato a bagnomaria, incorporando il burro. Togliete dal fuo
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.325494837339%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Le mie COPPETTE DI TERRAFERMA</h2>
-
-<div><div id="464511921789124686" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

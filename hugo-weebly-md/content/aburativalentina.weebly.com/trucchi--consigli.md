@@ -7,18 +7,18 @@ source_file: "trucchi--consigli.html"
 <div><div id="738784868833814826" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">Questa pagina è principalmente dedicata a chi parte da un livello in cucina ancora più infimo del mio :) e sono proprio indicazioni base...<br>
 Aggiornerò in funzione di specifiche richieste dai miei betatester o da altre indicazioni...<br>
 <br>
-- <a href="trucchi--consigli.html#panna">panna</a><br>
-- <a href="trucchi--consigli.html#cioccolato">cioccolato</a><br>
-- <a href="trucchi--consigli.html#albumi">albumi</a><br>
-- <a href="trucchi--consigli.html#riso">riso</a><br>
-- <a href="trucchi--consigli.html#lievito">lievito</a><br>
-- <a href="trucchi--consigli.html#silicone">stampi in silicone</a><br>
-- <a href="trucchi--consigli.html#cestini">cestini di parmigiano</a><br>
-- <a href="trucchi--consigli.html#pomodori">pomodori</a><br>
-- <a href="trucchi--consigli.html#farina">farina</a><br>
-- <a href="trucchi--consigli.html#miele">miele</a><br>
-- <a href="trucchi--consigli.html#zucchero">zucchero</a><br>
-- <a href="trucchi--consigli.html#lievitato">impasto lievitato</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#panna">panna</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#cioccolato">cioccolato</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#albumi">albumi</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#riso">riso</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#lievito">lievito</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#silicone">stampi in silicone</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#cestini">cestini di parmigiano</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#pomodori">pomodori</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#farina">farina</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#miele">miele</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#zucchero">zucchero</a><br>
+- <a href="/aburativalentina.weebly.com/trucchi--consigli.html#lievitato">impasto lievitato</a><br>
 <br>
 <br>
 Montare la <a name="panna">panna</a>:<br>
@@ -69,7 +69,7 @@ fuoco basso<br>
 <br>
 <a name="farina">Farina</a>:<br>
 - la farina è sempre molto utile... un pizzico di farina aiuta a far rapprendere una salsa che vi è rimasta troppo liquida<br>
-- comoda la farina già lievitata, ma ricordatevi che i componenti liquidi vanno poi aggiunti tutti insieme alla fine (ricordate la nota sul <a href="trucchi--consigli.html#lievito">lievito</a> in polvere?)<br>
+- comoda la farina già lievitata, ma ricordatevi che i componenti liquidi vanno poi aggiunti tutti insieme alla fine (ricordate la nota sul <a href="/aburativalentina.weebly.com/trucchi--consigli.html#lievito">lievito</a> in polvere?)<br>
 <br>
 <a name="miele">Miele o Zucchero?</a><br>
 - Non sempre è facile sostituire lo zucchero col miele nelle ricette... ricordate che:<br>
@@ -81,7 +81,7 @@ fuoco basso<br>
 <span>    </span>- ottima la sostituzione all'interno dello strudel perché lega meglio gli ingredienti e tende a <u>brunire</u> maggiormente<br>
 <br>
 <a name="zucchero">Zucchero Raffinato o Zucchero di Canna?</a><br>
-- Anche qui come per il <a href="trucchi--consigli.html#miele">miele</a> vale molto il buon senso e dipende dal tipo di ingredienti e di impasto... ricordate che:<br>
+- Anche qui come per il <a href="/aburativalentina.weebly.com/trucchi--consigli.html#miele">miele</a> vale molto il buon senso e dipende dal tipo di ingredienti e di impasto... ricordate che:<br>
 <span>    </span>- lo zucchero grezzo di canna ha più minerali e zucchera meno ma è meglio sostituirlo in ugual quantità e NON aumentare le dosi<br>
 <span>    </span>- se il vostro zucchero di canna è "autentico" (capita di trovare zucchero di barbabietola tostato) si presenterà molto fine e profumato, una consistenza nel sacchetto po' "umida" e tenderà a fare grumi: attenzione a sbriciolarlo prima di adoperarlo, al fatto che tende a colorare leggermente ed a lasciare un aroma particolare un po' "caramellato" quindi non sostituitelo se volete un impasto molto chiaro o se avete altri aromi (in particolare secondo me non si sposa bene col limone - nei dolci, non sto parlando di alcolici :) -, ottimo invece con vaniglia e amaretto)<br>
 <span>    </span>- se siete incerti anche qui optate per una sostituzione parziale.<br>

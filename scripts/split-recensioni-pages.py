@@ -19,7 +19,7 @@ ANCHOR_RE = re.compile(r'<a\s+name="([^"]+)"\s*></a>', re.IGNORECASE)
 H1_RE = re.compile(r'<h1>(.*?)</h1>', re.IGNORECASE | re.DOTALL)
 TAG_RE = re.compile(r'<[^>]+>')
 BACKLINK_RE = re.compile(r'<div\s+style="text-align:right"\s*>\s*<a\s+href="[^"]+#indice"[^>]*>.*?</a>\s*</div>', re.IGNORECASE | re.DOTALL)
-INDEX_LINK_RE_TPL = r'href="{page}\.html#([a-zA-Z0-9_-]+)"'
+INDEX_LINK_RE_TPL = r'href="(?:/aburativalentina\.weebly\.com/)?{page}\.html#([a-zA-Z0-9_-]+)"'
 
 
 def split_front_matter(text: str):

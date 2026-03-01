@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 1
 weight: 1
 pagina_origine: "contorni.html"
-ancora_origine: "peperonata"
+ancora_origine: "entry-1"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">La mia PEPERONATA</h2>
+
+<div><div id="775717179926045854" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="peperonata"></a>
 Ebbene si, pur non mangiando io la peperonata sembra che mi venga bene. Non lo so, io non la assaggio neppure ;). 
 <br><br>
 Per prima cosa prepariamo le verdure... <br>
@@ -56,9 +59,3 @@ Continuate la cottura, facendo consumare bene la salsa di pomodoro controllando 
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.117763526544%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei CHAMPIGNON TRIFOLATI</h2>
-
-<div><div id="734815666472047929" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

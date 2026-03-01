@@ -5,15 +5,15 @@ source_file: "secondi.html"
 ---
 
 <div><div id="658751140991520614" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="secondi.html#calamari">I miei CALAMARI RIPIENI</a><br>
-<a href="secondi.html#valdostani">I miei INVOLTINI VALDOSTANI</a><br>
-<a href="secondi.html#rospo">I miei CARTOCCI DI CODA DI ROSPO</a><br>
-<a href="secondi.html#agghiotta">Il mio TONNO ALL'AGGHIOTTA</a><br>
-<a href="secondi.html#frutta">Il mio TONNO ALLA FRUTTA SECCA</a><br>
-<a href="secondi.html#costine">Le mie COSTINE DI MAIALE MIELE E PAPRIKA con SALSA DI MELE</a><br>
-<a href="secondi.html#ossibuchi">I miei OSSIBUCHI ALLA MILANESE</a><br>
-<a href="secondi.html#orata">La mia ORATA LIMONE E ROSMARINO</a><br>
-<a href="secondi.html#fegato">Il mio FEGATO ALLA VENEZIANA</a><br></div>
+<a href="/ricette/secondi/i-miei-calamari-ripieni.html">I miei CALAMARI RIPIENI</a><br>
+<a href="/ricette/secondi/i-miei-involtini-valdostani.html">I miei INVOLTINI VALDOSTANI</a><br>
+<a href="/ricette/secondi/i-miei-cartocci-di-coda-di-rospo.html">I miei CARTOCCI DI CODA DI ROSPO</a><br>
+<a href="/ricette/secondi/il-mio-tonno-all-agghiotta.html">Il mio TONNO ALL'AGGHIOTTA</a><br>
+<a href="/ricette/secondi/il-mio-tonno-alla-frutta-secca.html">Il mio TONNO ALLA FRUTTA SECCA</a><br>
+<a href="/ricette/secondi/le-mie-costine-di-maiale-miele-e-paprika-con-salsa-di-mele.html">Le mie COSTINE DI MAIALE MIELE E PAPRIKA con SALSA DI MELE</a><br>
+<a href="/ricette/secondi/i-miei-ossibuchi-alla-milanese.html">I miei OSSIBUCHI ALLA MILANESE</a><br>
+<a href="/ricette/secondi/la-mia-orata-limone-e-rosmarino.html">La mia ORATA LIMONE E ROSMARINO</a><br>
+<a href="/ricette/secondi/il-mio-fegato-alla-veneziana.html">Il mio FEGATO ALLA VENEZIANA</a><br></div>
 
 
 
@@ -72,7 +72,7 @@ Due alternative per il vostro contorno: <br>
 <br>
 Un giorno vi racconterò della mia pastella per i fiori di zucca :)<br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -128,7 +128,7 @@ Prendete le fette di tacchino e battetele. Adagiatevi sopra le fette di speck ut
 Intanto in una casseruola bassa fate rosolare lo scalogno, appena questo sarà dorato aggiungete gli involtini ed immediatamente aggiungere il vino e l'acqua, alzate il fuoco per far evaporare l'alcool. Una volta sfumato il vino distribuite uniformemente il dado e coprite.<br><br>
 Girare dopo qualche minuto e sincerarsi che il formaggio non si attacchi al fondo della pentola. Controllare frequentemente, girando gli involtini in modo che cuociano in modo uniforme, per almeno una decina di minuti in modo che assorbano il brodo. Servire in tavola ben caldi coperti dalla salsina di cottura. Se avanzano (cosa che in casa mia non succede spesso) potete riscaldarli in forno il giorno dopo con un fiocco di burro o un leggerissimo velo d'olio.<br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -185,7 +185,7 @@ Ecco una ricetta veloce veloce ed anche salutare.
 <br><br>
 Prendete i tranci ed adagiateli su un quadratino di stagnola, da parte preparate un emulsione di soya, olio (poco di entrambi, considerate 2 cucchiaini di olio rasi ed 1/4 di cucchiaino di soya per ogni trancio) a cui aggiungete il peperoncino ed il pepe. <br>Tagliate la carota a dadini e fate lo stesso coi i pomodorini su cui metterete anche un pizzico (ma proprio un pizzico) di zucchero. Disponete questi due triti insieme con l'aglio, i capperi ed il dado granulare sui tranci e versate sopra l'emulsione. <br>Chiudete i cartocci, fate scaldare il forno a 180°, prendete una teglia non tanto grande e disponetevi i cartocci. Aggiungete un velo d'acqua ed infornate per una decina di minuti. Tirate fuori ed aprite i cartocci facendo attenzione a non far uscire il sughetto, aggiungete il prezzemolo, salate ed eventualmente pepate nuovamente. (L'emulsione può essere aggiunta anche a questo punto per una cucina ancora più leggera)<br><br>In pochi minuti avrete risolto un semplice secondo potendo così evitare di passare il tempo in cucina mentre i soliti amici sono a tavola :). Per la presentazione suggerisco di richiudere i cartocci e lasciarli "scoprire" ai commensali nei loro piatti dopo aver aggiunto alcune olive nere (meglio se taggiasche) grossolanamente tagliate. <br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -243,7 +243,7 @@ Questa ricetta è la mia revisione del celebre ricetta a base di PESCE SPADA.
 <br><br>
 Mettete l'uva insieme al vino affinché si riprenda. Infarinate il tonno e cuocetelo su un velo d'olio per pochi istanti per lato. Toglietelo dal fuoco e ponetelo in un piatto. <br>Nello stesso tegame aggiungete lo scalogno finemente tritato e fatelo appassire a fuoco lento insieme con l'aglio. <br>Nel frattempo tagliate i pomodorini a dadini e snocciolate le olive. <br>Unite pomodori e olive al soffritto insieme con vino bianco, la salsa di soya (un cucchiaio), il peperoncino e lo zucchero e fate cuocere per 10 minuti (i pomodorini dovranno risultare completamente spappolati). Togliete il peperoncino e controllate se occorre salare (non dovrebbe essere necessario, ricordate che occorre ancora aggiungere il pecorino). <br>Passate tutto al mixer per evitare che rimangano le bucce di pomodoro. Se la salsa rimane ancora molto liquida aggiungete un po' di farina e rimescolate energicamente affinché non rimangano grumi. Unite l'uvetta sgocciolata e qualche oliva che avrete lasciato da parte. <br>Riprendete il tonno e terminate la cottura, rosolandolo bene su tutti i lati. <br>Togliete dal fuoco, disponete sui piatti un letto di salsa, adagiatevi sopra il tonno ben caldo e delle sottili fette di pecorino. <br>Pepate secondo i gusti.<br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -302,7 +302,7 @@ Dopo circa un minuto aggiungete l'Amaretto  e sul finire della cottura il resto 
 <br>
 Impiattate con una prugna, un po' di uvetta ed il resto della salsa di cottura. Pepate a piacimento.<br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -363,7 +363,7 @@ Servite con accompagnamento della salsa di mele, l'emulsione preparata, ed una s
 Mangiate con gusto!<br>
 <br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -423,7 +423,7 @@ A questo punto gli ossibuchi sono pronti e potete servirli ben caldi e con abbon
 La tradizione milanese vuole che questo gustoso piatto sia accompagnato con del risotto alla milanese magari anche questo con un po' di sughetto sopra.
 <br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -482,7 +482,7 @@ Fate cuocere <u>5/6 minuti per lato</u> le orate (a meno che non siano piuttosto
 Servite le orate con il loro sughetto. 
 <br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div></div>
 
 
 
@@ -530,7 +530,7 @@ Servite le orate con il loro sughetto.
 <br><br>Tagliate il fegato a striscioline piccole ed infarinate velocemente, rimuovendo la farina in eccesso.<br> Tagliate la cipolla a velo e soffriggetela in burro ed olio. Aggiungete il fegato e fatelo cuocere da entrambi i lati. appena sarà dorato, aumentate la fiamma e sfumate con l'aceto. Riabbassate la fiamma e fare cuocere per un paio di minuti.<br><br>Servite coperto dalle cipolle e con la sals di cottura.
 <br>
 <br>
-<div style="text-align:right"><a href="secondi.html#indice">Indice secondi</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/secondi.html#indice">Indice secondi</a></div>
 </div>
 
 

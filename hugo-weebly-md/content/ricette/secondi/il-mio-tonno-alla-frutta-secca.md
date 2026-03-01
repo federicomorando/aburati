@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 5
 weight: 5
 pagina_origine: "secondi.html"
-ancora_origine: "frutta"
+ancora_origine: "entry-5"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Il mio TONNO ALLA FRUTTA SECCA <font size="1">(un po' ubriaco)</font></h2>
+
+<div><div id="951136385264948644" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="frutta"></a>
 Una ricetta semplice e veloce per preparare il tonno.
 <br>
 Private le prugne secche del nocciolo e mettetele nel vino bianco con l'uva sultanina. Passate il tonno nella farina in modo grossolano. Fate rosolare lo scalogno nell'olio, aggiungete le prugne, l'uva sultanina e sfumate con una parte della vodka ed il vino bianco in cui avete fatto riprendere l'uvetta.<br>
@@ -65,9 +68,3 @@ Impiattate con una prugna, un po' di uvetta ed il resto della salsa di cottura. 
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.076621594263%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Le mie COSTINE DI MAIALE MIELE E PAPRIKA con SALSA DI MELE</h2>
-
-<div><div id="971666930888945079" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

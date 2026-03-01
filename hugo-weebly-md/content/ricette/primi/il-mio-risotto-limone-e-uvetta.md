@@ -8,11 +8,13 @@ tipo: "ricetta"
 ordine: 2
 weight: 2
 pagina_origine: "primi.html"
-ancora_origine: "limone"
+ancora_origine: "entry-2"
 body_class: "no-header-page wsite-theme-light"
 ---
 
-Abbiamo assaggiato questo risotto da "Frate Di Vino" e lo avevamo trovato così particolare che abbiamo provato a replicare la ricetta... Il risultato ci è piaciuto e qui lo riportiamo.
+<h2 class="wsite-content-title" style="text-align:left;">Il mio RISOTTO LIMONE E UVETTA</h2>
+
+<div><div id="320831127581639725" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="limone"></a>Abbiamo assaggiato questo risotto da "Frate Di Vino" e lo avevamo trovato così particolare che abbiamo provato a replicare la ricetta... Il risultato ci è piaciuto e qui lo riportiamo.
 <br><br>
 Mettete a bagno l'uva sultanina nel vino liquoroso. Grattugiate il parmigiano, grattate la scorza del limone e spremetene il succo.<br><br>
 Per prima cosa preparate i <u>cestini</u> in cui andrete a servire il vostro risotto: in un tegame mettete il parmigiano grattugiato e fatelo sciogliere sul 
@@ -65,9 +67,3 @@ Decorate a piacere con altro pepe, i dischetti di parmigiano rimasti ed eventual
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.251012145749%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Il mio RISO AI FRUTTI DI BOSCO</h2>
-
-<div><div id="787350550275507487" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

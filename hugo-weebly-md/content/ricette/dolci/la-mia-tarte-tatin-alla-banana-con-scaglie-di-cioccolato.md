@@ -8,11 +8,13 @@ tipo: "ricetta"
 ordine: 9
 weight: 9
 pagina_origine: "dolci.html"
-ancora_origine: "tartetatinbanana"
+ancora_origine: "entry-9"
 body_class: "no-header-page wsite-theme-light"
 ---
 
-Una persona mi aveva suggerito tempo fa di provare a velocizzare la tarte tatin usando le banane e non le mele (soprattutto visto che la mia tarte tatin alle mele è fatta con mele tagliate sottili sottili). Ho quindi provato a farla, ma con alcuni accorgimenti che vi riporto...<br><br>
+<h2 class="wsite-content-title" style="text-align:left;">La mia TARTE TATIN alla BANANA con scaglie di CIOCCOLATO</h2>
+
+<div><div id="417576064417629046" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="tartetatinbanana"></a>Una persona mi aveva suggerito tempo fa di provare a velocizzare la tarte tatin usando le banane e non le mele (soprattutto visto che la mia tarte tatin alle mele è fatta con mele tagliate sottili sottili). Ho quindi provato a farla, ma con alcuni accorgimenti che vi riporto...<br><br>
 
 Ringraziamo sempre la sfoglia Buitoni :)
 <br><br>
@@ -76,9 +78,3 @@ Per la glassa (da preparare poco prima di servire):<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.048152309146%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">La mia CHEESECAKE ITALIANA<br /></h2>
-
-<div><div id="747916619393354112" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

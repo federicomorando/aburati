@@ -5,10 +5,10 @@ source_file: "ricette-di-base.html"
 ---
 
 <div><div id="831259127858717660" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="ricette-di-base.html#besciamella">Besciamella</a><br>
-<a href="ricette-di-base.html#crespelle">Impasto per le crespelle (con crepiera elettrica ad immersione)</a><br>
-<a href="ricette-di-base.html#pasticcera">Crema Pasticcera</a><br>
-<a href="ricette-di-base.html#meringhe">Meringhe</a><br>
+<a href="/ricette/ricette-di-base/besciamella.html">Besciamella</a><br>
+<a href="/ricette/ricette-di-base/impasto-per-le-crespelle-con-crepiera-elettrica-ad-immersione.html">Impasto per le crespelle (con crepiera elettrica ad immersione)</a><br>
+<a href="/ricette/ricette-di-base/crema-pasticcera.html">Crema Pasticcera</a><br>
+<a href="/ricette/ricette-di-base/meringhe.html">Meringhe</a><br>
 <br>
 <a name="besciamella"></a><h2>Besciamella</h2><br>
 
@@ -37,7 +37,7 @@ Volete usarla su verdure da gratinare al forno? usate un po' di brodo vegetale.<
 Sbizzarritevi!
 <br>
 <br>
-<div style="text-align:right"><a href="ricette-di-base.html#indice">Indice ricette di base</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/ricette-di-base.html#indice">Indice ricette di base</a></div>
 <br>
 <br>
 <a name="crespelle"></a><h2>Impasto per le crespelle (con crepiera elettrica ad immersione)</h2><br>
@@ -60,11 +60,11 @@ Sbattete bene le uova con il sale. Aggiungete quindi la farina e mescolate energ
 È quindi il momento del latte da versare a filo e dell'eventuale zucchero. Mescolate fino ad ottenere un composto liscio, omogeneo, senza grumi che lascerete riposare almeno per una mezz'ora in frigorifero in modo che diventi più elastico.<br>
 Rimescolate con la forchetta, ungete la crepiera con un panno carta da cucina sporcato d'olio e via... siete pronti.<br>
 <br>
-<div style="text-align:right"><a href="ricette-di-base.html#indice">Indice ricette di base</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/ricette-di-base.html#indice">Indice ricette di base</a></div>
 <br>
 <br>
 <a name="pasticcera"></a><h2>Crema Pasticcera</h2>
-Abbiamo visto che fare la <a href="ricette-di-base.html#besciamella">Besciamella</a> è una cosa semplice... altrettanto semplice fare la Crema Pasticcera... Inoltre se ve la fate in casa potete anche scegliere come aromatizzarla ed adattarla alle vostre ricette. Quindi... cosa aspettate?<br>
+Abbiamo visto che fare la <a href="/ricette/ricette-di-base/besciamella.html">Besciamella</a> è una cosa semplice... altrettanto semplice fare la Crema Pasticcera... Inoltre se ve la fate in casa potete anche scegliere come aromatizzarla ed adattarla alle vostre ricette. Quindi... cosa aspettate?<br>
 <br>
 <u>Ingredienti</u> per circa mezzo litro di crema:<br>
 - 500 ml latte<br>
@@ -93,7 +93,7 @@ Variante: tagliate il limone a metà, infilzatelo con una forchetta ed immergete
 - ecc...<br>
 <br>
 <br>
-<div style="text-align:right"><a href="ricette-di-base.html#indice">Indice ricette di base</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/ricette-di-base.html#indice">Indice ricette di base</a></div>
 <br>
 <br>
 
@@ -102,7 +102,7 @@ Forse lo sapete... le meringhe che comprate in pasticceria tutti i giorni vengon
 
 Qui di seguito quindi la ricetta per le tipiche meringhe da pasticceria, quelle solide con al limite l'interno un po' "crudo" che sono tanto buone con la panna, col cioccolato fondente o con la crema pasticcera....<br>
 <br>
-Trovate un'interpretazione delle meringhe nella pagina dei dolci per <a href="dolci.html#coppette">Le mie COPPETTE DI TERRAFERMA</a>.<br>
+Trovate un'interpretazione delle meringhe nella pagina dei dolci per <a href="/ricette/dolci/le-mie-coppette-di-terraferma.html">Le mie COPPETTE DI TERRAFERMA</a>.<br>
 <br>
 <u>Ingredienti</u>:<br>
 - 5 albumi<br>
@@ -112,7 +112,7 @@ lo zucchero a velo). Deve essere il doppio del peso degli albumi<br>
 <br>
 Separate bene i tuorli dagli 
 albumi. Asciugate bene tutti attrezzi, mettete in una ciotola gli albumi con un 
-pizzico di sale ed iniziate a montarli a neve. (Leggete eventualmente i commenti su <a href="trucchi--consigli.html">Trucchi&Consigli</a>)<br>
+pizzico di sale ed iniziate a montarli a neve. (Leggete eventualmente i commenti su <a href="/aburativalentina.weebly.com/trucchi--consigli.html">Trucchi&Consigli</a>)<br>
 <br>
 A metà aggiungete lentamente lo 
 zucchero (vi siete ricordati di frullarlo?), il cui peso deve essere pari al 
@@ -138,7 +138,7 @@ forno o col forno che si raffredda dopo che avrete fatto una torta. Io ho il
 problema che il mio forno si raffredda in 10 minuti mandando fuori l'aria calda, quindi non si può 
 utilizzare questo metodo per la cottura.<br>
 <br>
-<div style="text-align:right"><a href="ricette-di-base.html#indice">Indice ricette di base</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/ricette-di-base.html#indice">Indice ricette di base</a></div>
 <br>
 <br>
 </div>

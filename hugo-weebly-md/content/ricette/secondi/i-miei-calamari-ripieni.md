@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 1
 weight: 1
 pagina_origine: "secondi.html"
-ancora_origine: "calamari"
+ancora_origine: "entry-1"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei CALAMARI RIPIENI</h2>
+
+<div><div id="280611173749313928" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="calamari"></a>
 Piatto appena più complesso degli altri e per cui oramai è finita la stagione... forse si riesce a prepararlo ancora per qualche settimana (se volete farlo con ingredienti freschi, ovviamente ;), altrimenti potete prepararlo quando più vi aggrada, anche considerando che d'estate può fare caldo e quindi magari non apprezzate il forno acceso :).<br>
 E' una ricetta che richiede numerosi triti: preparatevi con tritatutto/frullino e mezzaluna.<br>
 <br>
@@ -73,9 +76,3 @@ Ingredienti per 4 persone</u>:<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.018067117624%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei INVOLTINI VALDOSTANI</h2>
-
-<div><div id="962060457567273494" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

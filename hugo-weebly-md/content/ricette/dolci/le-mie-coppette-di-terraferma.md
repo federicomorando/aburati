@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 7
 weight: 7
 pagina_origine: "dolci.html"
-ancora_origine: "coppette"
+ancora_origine: "entry-7"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Le mie COPPETTE DI TERRAFERMA</h2>
+
+<div><div id="464511921789124686" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="coppette"></a>
 Questa è una ricetta un po' più lunga delle mie solite... E per la prima volta è anche una ricetta con una foto del risultato, dopo tante richieste in tal senso ;)<br>
 Perché questa ricetta è più lunga di altre? Perché semplicemente prevede la preparazione di diversi dolci e cerca di far in modo di non lasciare nel vostro frigorifero troppi tuorli od albumi. Se vi chiedete il perché del nome del dolce, sappiate che è dovuto al fatto che ricorda un po' l'îles flottantes francese, ma sia la crema, sia le meringhe e la cioccolata sono molto più "ferme" e non navigano molto.<br>
 <br>
@@ -23,7 +26,7 @@ Il mio risultato finale è questo:<br></div>
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a href='uploads/1/8/5/1/18517628/5658095_orig.jpg' rel='lightbox' onclick='if (!lightboxLoaded) return false'>
-<img src="uploads/1/8/5/1/18517628/5658095_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/5658095_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -92,9 +95,3 @@ Assemblate il tutto se consumate in giornata, altrimenti lasciate le meringhe ed
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.261313027268%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">La mia TARTE TATIN</h2>
-
-<div><div id="834609250731170418" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 4
 weight: 4
 pagina_origine: "dolci.html"
-ancora_origine: "muffin"
+ancora_origine: "entry-4"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei MUFFIN AL DOPPIO CIOCCOLATO</h2>
+
+<div><div id="861528675685151426" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="muffin"></a>
 Io uso gli stampi in silicone che sono molto comodi da lavare e permettono di ridurre l'uso del burro (se usate quelli tradizionali considerate al solito ca 20 gr di burro in più per ungerli), ma hanno due grossi difetti: gli stampi sono un po' piccoli ed occorre stare attenti quando li si riempie prima di spostarli perché rimangono flessibili e questo impasto rimane piuttosto liquido.
 <br><br>
 Iniziare a scaldare il forno a 190° ed ungere gli stampi dei muffin. <br>
@@ -37,7 +40,7 @@ Far fondere il burro e rompere a piccoli pezzi il cioccolato fondente. I pezzi d
 <br>
 Una volta raffreddati se vi siete resi conto che siete solo in due e quindi vi farebbe male mangiare tutti i muffin potete optare tra due soluzioni: portarli in ufficio (di solito i colleghi apprezzano) o metterli in contenitori di plastica e congelarli. In questo secondo caso state attenti che il contenitore si chiuda bene e di non metterne troppi nello stesso. Quando li tirerete fuori passateli direttamente nel microonde e serviteli caldi accompagnati con panna montata o gelato.<br>
 <div style="text-align:right"><br>
-<a href="dolci.html#indice">Indice dolci</a></div></div>
+<a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -67,9 +70,3 @@ Una volta raffreddati se vi siete resi conto che siete solo in due e quindi vi f
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.255481889656%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">La nostra MARMELLATA DI MORE <font size="1">(con <strong>COULIS </strong>annessa)</font></h2>
-
-<div><div id="827936640316586271" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

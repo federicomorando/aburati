@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 2
 weight: 2
 pagina_origine: "antipasti.html"
-ancora_origine: "crostoni"
+ancora_origine: "entry-2"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei CROSTONI RUSTICI</h2>
+
+<div><div id="559843596881180481" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="crostoni"></a>
 Ok... avete fatto il barbecue con gli amici, avete messo la carne a marinare, preparato insalate, aperitivi, bruschette, uova sode, frittate, etc etc ma avevate un dubbio: la carne si mangerà tutta o ci sarà talmente tanta roba da mangiare che saranno tutti sazi ed avanzerà qualcosa? Visto che gli unici due pezzi che non necessitano marinatura ma non possono mai mancare sono salamini e salsiccia io ne tengo sempre un po' alla fine non pronti... al limite li "reinterpreto" in qualche altro modo.... Tra l'altro se avrete fatto una braciolata la voglia di cucinare la sera sarà quasi nulla, quindi meglio questa ricetta rapida.
 
 <br>

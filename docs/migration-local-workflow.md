@@ -20,6 +20,7 @@ From repository root:
 ./scripts/extract-weebly-to-hugo-md.py
 ./scripts/split-recensioni-pages.py
 ./scripts/split-ricette-pages.py
+./scripts/normalize-hugo-links.py
 ```
 
 ## Local preview

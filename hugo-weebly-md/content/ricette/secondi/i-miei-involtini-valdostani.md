@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 2
 weight: 2
 pagina_origine: "secondi.html"
-ancora_origine: "valdostani"
+ancora_origine: "entry-2"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei INVOLTINI VALDOSTANI</h2>
+
+<div><div id="962060457567273494" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="valdostani"></a>
 Ho chiamato così i miei involtini perché contengono speck e fontina, ma se vi dovessi dire da dove viene questa ricetta.... bho credo di averla messa a punto io una sera che avevamo ospiti.
 <br>
 Innanzi tutto si deve considerare che per 4 persone ci vogliono 5 involtini... è sempre così: uno è per la pentola... o per chi ne vuole ancora.<br>
@@ -67,9 +70,3 @@ Girare dopo qualche minuto e sincerarsi che il formaggio non si attacchi al fond
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.258209398475%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei CARTOCCI DI CODA DI ROSPO</h2>
-
-<div><div id="587277143980819755" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

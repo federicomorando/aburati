@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 8
 weight: 8
 pagina_origine: "secondi.html"
-ancora_origine: "orata"
+ancora_origine: "entry-8"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">La mia ORATA LIMONE E ROSMARINO</h2>
+
+<div><div id="131633736922141570" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="orata"></a>
 Ricetta semplice, ma almeno si cambia un po' invece della solita orata al forno :)
 <br><br>
 Per prima cosa pulite, lavate e squamate le orate. Lavate ed asciugate bene anche il limone ed il rosmarino e pulite l'aglio.<br>
@@ -61,9 +64,3 @@ Servite le orate con il loro sughetto.
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.248255231849%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;"> Il mio FEGATO ALLA VENEZIANA</h2>
-
-<div><div id="651659967170361227" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

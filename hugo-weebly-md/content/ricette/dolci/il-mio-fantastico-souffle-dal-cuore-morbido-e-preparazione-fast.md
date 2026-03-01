@@ -8,11 +8,13 @@ tipo: "ricetta"
 ordine: 13
 weight: 13
 pagina_origine: "dolci.html"
-ancora_origine: "fantastico"
+ancora_origine: "entry-13"
 body_class: "no-header-page wsite-theme-light"
 ---
 
-Anni fa (circa 7!) ho letto su un sito di una ricetta brevissima per fare dei mini soufflé al cioccolato fondente simili a dei gateau con cuore morbido. Quando sono arrivata a casa ieri mia figlia mi ha chiesto una torta al cioccolato. Non volevo deluderla, ho cercato la ricetta che avevo letto e l'ho rifatta.<br>
+<h2 class="wsite-content-title"><a title="" href="/ricette/dolci/il-mio-fantastico-souffle-dal-cuore-morbido-e-preparazione-fast.html">Il mio FANTASTICO SOUFFL&Eacute; (dal cuore morbido e preparazione fast)</a><br /></h2>
+
+<div><div id="128805722914063358" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="fantastico"></a>Anni fa (circa 7!) ho letto su un sito di una ricetta brevissima per fare dei mini soufflé al cioccolato fondente simili a dei gateau con cuore morbido. Quando sono arrivata a casa ieri mia figlia mi ha chiesto una torta al cioccolato. Non volevo deluderla, ho cercato la ricetta che avevo letto e l'ho rifatta.<br>
 Faccio outing: non ho usato il solito cioccolato, ma quello delle uova di Pasqua e nonostante ciò il risultato è stato <u><b>fantasticamente fantasmagorico</b></u>.<br>L'introduzione è più lunga della ricetta<br><br>
 Accendere il forno a 200° ventilato. Ho poi fuso il cioccolato fondente col microonde a 450W.<br>
 In contemporanea con una forchetta ho "sbattuto" farina, zucchero e uova.<br> 

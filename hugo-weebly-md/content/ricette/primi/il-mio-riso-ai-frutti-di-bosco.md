@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 3
 weight: 3
 pagina_origine: "primi.html"
-ancora_origine: "bosco"
+ancora_origine: "entry-3"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Il mio RISO AI FRUTTI DI BOSCO</h2>
+
+<div><div id="787350550275507487" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="bosco"></a>
 Era un po' che avevamo trovato una ricetta per il riso con le <a href=http://aburativalentina.weebly.com/ricette-che-non-ho-ancora-provato.html">fragoline di bosco</a>, provato il riso venere per San Silvestro e ricordato l'aroma di more che il riso sprigiona mentre viene tostato, abbiamo deciso che poteva essere il momento di provare a contaminare la ricetta (a questo si aggiunge l'acquisto di un coppa-pasta di cui sentivamo veramente la mancanza ;)) ed il risultato ci par buon (e bello) quindi eccovi come al solito la ricetta.<br>
 (Questa è veramente veloce e facile)<br>
 <br>
@@ -30,7 +33,7 @@ Servite con un paio di frutti di bosco accanto o sopra ed un vino profumato ed a
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/1471965_orig.jpg" alt="Immagine" style="width:100%;max-width:647px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/1471965_orig.jpg" alt="Immagine" style="width:100%;max-width:647px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -76,9 +79,3 @@ Servite con un paio di frutti di bosco accanto o sopra ed un vino profumato ed a
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.314094742984%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Le mie PENNE GAMBERI, ZUCCHINI, ZAFFERANO</h2>
-
-<div><div id="321831920675434980" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

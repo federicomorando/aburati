@@ -5,16 +5,16 @@ source_file: "bimby.html"
 ---
 
 <div><div id="116352067940931984" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="bimby.html#condito">Il pane condito: con olive o cioccolata</a><br>
-<a href="bimby.html#meringhe">Le meringhe</a><br>
-<a href="bimby.html#caprese">La caprese</a><br>
-<a href="bimby.html#velluzucchini">La vellutata di zucchini</a><br>
-<a href="bimby.html#vellucavolfiori">La vellutata di cavolfiori</a><br>
-<a href="bimby.html#tortaricotta">La mia torta di ricotta e cioccolato</a><br>
-<a href="bimby.html#pastamodellabile">La mia pasta modellabile</a><br>
-<a href="bimby.html#tortabassa">La mia torta bassa al cioccolato</a><br>
-<a href="bimby.html#cioccopere">La mia torta pere e cioccolato</a><br>
-<a href="bimby.html#tortamele">La mia torta di mele</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#condito">Il pane condito: con olive o cioccolata</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#meringhe">Le meringhe</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#caprese">La caprese</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#velluzucchini">La vellutata di zucchini</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#vellucavolfiori">La vellutata di cavolfiori</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#tortaricotta">La mia torta di ricotta e cioccolato</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#pastamodellabile">La mia pasta modellabile</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#tortabassa">La mia torta bassa al cioccolato</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#cioccopere">La mia torta pere e cioccolato</a><br>
+<a href="/aburativalentina.weebly.com/bimby.html#tortamele">La mia torta di mele</a><br>
 </div>
 
 
@@ -57,14 +57,14 @@ Preriscaldate il forno a 180° e cuocetevi il pane per 30 minuti.<br>
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/4042434_orig.jpg" alt="Immagine" style="width:100%;max-width:1100px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/4042434_orig.jpg" alt="Immagine" style="width:100%;max-width:1100px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
 
 <div><div id="231451335912351081" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">Buon appetito...<br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -87,7 +87,7 @@ Ingredienti:<br>
 <br>
 Procedete alla preparazione delle meringhe ed alla cottura secondo la ricetta che trovate nella sezione <a href="https://sites.google.com/site/aburativalentina/ricette/base" target="_blank">Ricette di Base</a>.</span><br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -119,7 +119,7 @@ Ingredienti:<br>
 Versare in una teglia infarinata ed imburrata (o in uno stampo di silicone) e cuocete in forno preriscaldato a 160° per 50 minuti in forno statico. La cottura dipende dal forno. Controllate sempre con uno stecchino che deve uscire asciutto!<br>
 Quando il dolce sarà freddo, cospargerlo di zucchero a velo (prima eventualmente potete cospargerlo con un po' di rum, lasciatelo penetrare e dopo un'ora sarà pronta per lo zucchero a velo).<br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -148,7 +148,7 @@ Nel caso fossero rimasti molti grumi tritare per qualche istante a velocità 8.<
 <br>
 Servite con una spruzzata di parmigiano ed un po' di pepe.<br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -179,7 +179,7 @@ Per una versione piú "saporita" sostituite l'acqua col brodo vegetale ed inseri
 Come nel caso precedente potete mettere quanto vi avanza negli stampini in silicone da cupcake ed infilarli nel congelatore. Una volta congelati li trasferite nei sacchetti ed avrete comode monoporzioni pronte da riscaldare (aggiungete solo un velo d'acqua ed eventualmente un po' d'olio).
 <br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -214,7 +214,7 @@ Versate il tutto nell'altra metà dello stampo ed infornate per 30 minuti a 180�
 Il risultato sarà una torta per metà sanissima ed adatta ad un cucciolino e per metà goduriosa...<br><br>
 Nel caso in cui vogliate usare farina 00, riducete lo zucchero (direi che 150g sono sufficienti).<br>
 <br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -235,7 +235,7 @@ Ingredienti (diciamo per 200/250g di pasta):<br><br>
 <br>
 Nel boccale inserire il sale 20 sec. a velocità Turbo (o fino a quando è diventato polvere - tipo zucchero a velo-, unire la farina, cremor tartaro, olio e acqua e cuocere 4 minuti 100° vel. 4. Appena riuscite a maneggiarla, toglietela dal bimby e lavoratela con le mani (sarà un po' appiccicosa, se lo è troppo ungetevi leggermente le mani). Io l'ho messa nei contenitori di plastica a chiusura ermetica. Se la volete colorata aggiungete un po' di colorante alimentare e "impastate".<br>
 Se ve ne serve tanta dello stesso colore potete unire il colorante direttamente nel bimby insieme con gli altri ingredienti.<br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -257,7 +257,7 @@ L'inizio dipende dal tipo di cioccolato a vostra disposizione... se sono tavolet
 Accendete quindi il forno: 180° (le ricette col Bimby sono talmente veloci che è meglio iniziare a scaldare il forno).<br>
 Nel boccale inserire quindi lo zucchero (circa 80g o equivalente) e le uova: 2 minuti a velocità 3. Aggiungete farina e burro: altri 4 minuti alla stessa velocità. &Egrave; la volta del cioccolato: 2 minuti a velocità 4.<br>
 Versate nello stampo ed infornate per 30 minuti (o comunque fino a quando lo stecchino non è asciutto.<br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -286,7 +286,7 @@ Accendete quindi il forno: 170° - le ricette col Bimby sono sempre talmente vel
 Aggiungete gli altri ingredienti (tranne pere, lievito ed uvetta): un minuto a velocità 4. Ora inserite l'uvetta (con anche il latte se non lo avete già messo prima): 30 secondi a velocità 3.<br> Inserite infine nel boccale il lievito: 10 secondi a velocità 4.<br>
 Versa il contenuto nello stampo e poi disponi le pere a raggiera in modo che ogni fetta di torta abbia il suo pezzo di pera.<br>
 Infornate per 50 minuti.<br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 
@@ -314,7 +314,7 @@ Riprendete l'impasto e azionate il bimby per 10 secondi a velocità 5.<br>
 Unite le mele a dadini (30 secondi velocità cucchiaio, spatolando).<br>
 Versate l'impasto nella teglia, sistemate le mele a fettine sopra, spolverizzate con i due cucchiai di zucchero a velo e con le gocce di cioccolato.<br>
 Infornate in forno caldo a 180° per 45 Minuti.<br>
-<div style="text-align:right"><a href="bimby.html#indice">Indice Bimby</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/bimby.html#indice">Indice Bimby</a></div></div>
 
 
 

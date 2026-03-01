@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 1
 weight: 1
 pagina_origine: "antipasti.html"
-ancora_origine: "friselle"
+ancora_origine: "entry-1"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Le mie FRISELLE DI PESCE<br /></h2>
+
+<div><div id="223178001118838104" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="friselle"></a>
 I soliti amici vengono a casa senza preavviso. Non sapete cosa preparare ed avete poco tempo. Che fare? Ci vuole qualcosa che vi lasci tempo di dedicarvi alle altre portate e che possa essere eventualmente preparato in anticipo e scaldato sul momento... Uff, io con le mie manie di voler stare con gli ospiti e non dietro ai fornelli!!!!<br>
 Ecco la mia soluzione. Io tengo sempre in casa delle friselle perché durano parecchio e possono risolvere diverse occasioni (un po' di pomodirni schiacciati, un pizzico di sale, due foglioline di basilico e magari due olive, olio ed ecco risolta una simpatica bruschetta) e se trovo al supermercato nel banco frigo prendo il "misto mare" (gamberetti, anelli di calamari, cozze, et similia) - se non si trova va bene anche quello congelato. Di solito il misto è sottovuoto e quindi dura quindici giorni / un mese. <br>
 Pronti? Avete presto tutto? Ah, servono anche un paio di pomodori, as usual... Partiamo.<br>
@@ -77,9 +80,3 @@ Ingredienti per X persone</u>... dipende da quanta fame avete diciamo <u>per 4 c
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.009532446291%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei CROSTONI RUSTICI</h2>
-
-<div><div id="559843596881180481" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

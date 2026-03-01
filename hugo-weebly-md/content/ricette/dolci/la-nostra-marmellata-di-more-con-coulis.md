@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 5
 weight: 5
 pagina_origine: "dolci.html"
-ancora_origine: "marmellata"
+ancora_origine: "entry-5"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">La nostra MARMELLATA DI MORE <font size="1">(con <strong>COULIS </strong>annessa)</font></h2>
+
+<div><div id="827936640316586271" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="marmellata"></a>
 Questa ricetta è "nostra" perché per prepararla 1. vado a raccogliere le more con mio marito, 2. mentre la sera preparo la marmellata chiedo sempre a lui aiuto per passarla: è un lavoro che mi annoia ed a lui riesce meglio :)<br>
 <br>
 Attenzione: non trovate subito le dosi perché il peso delle more cambia durante il procedimento! Se volete essere sicuri di avere in casa abbastanza zucchero pesate le more e calcolate 1/2 del peso: questo dovrebbe essere il massimo dello zucchero che vi servirà. Io non aggiungo limone quindi gli ingredienti sono:<br>
@@ -27,7 +30,7 @@ E gli attrezzi di questa ricetta sono:<br>
 Pulite velocemente le more liberandole del picciuolo, passatele sotto l'acqua corrente e poi mettete a scolare nello scolapasta.<br>
 Quando saranno quasi completamente asciutte mettetele in una pentola che metterete sul fuoco mantenendolo medio (o, nel mio caso, sul piano a cottura ad induzione su 5. o 6).<br>
 Piano piano cambieranno colore: giratele lentamente per qualche minuto fino a quando non saranno tutte rosse e sembreranno molto morbide.<br>
-a questo punto passatele col passaverdura per eliminare tutti i semini.... Buon lavoro!!!!! (Non buttate via i semini, si possono riutilizzare per preparare nel frattempo una <u><b><a href="dolci.html#coulis">coulis di more</a></b></u> da mettere sul gelato fiordilatte che servirà per accompagnare la vostra crostata di more ;))<br>
+a questo punto passatele col passaverdura per eliminare tutti i semini.... Buon lavoro!!!!! (Non buttate via i semini, si possono riutilizzare per preparare nel frattempo una <u><b><a href="/aburativalentina.weebly.com/dolci.html#coulis">coulis di more</a></b></u> da mettere sul gelato fiordilatte che servirà per accompagnare la vostra crostata di more ;))<br>
 Quando tutta la polpa sarà passata, pesatela ed assaggiatela. A questo punto occorre calcolare la quantità di zucchero: vi servirà tra 1/2 e i 2/3 del peso delle more a seconda dei vostri gusti e della dolcezza delle more stesse. Mai scendere sotto i 1/2 altrimenti la marmellata non vi durerà.<br>
 Mettete tutto sul fuoco basso e iniziate a mescolare, rimuovendo la schiuma rossiccia che pian piano si forma in cima. Tenetevi vicino un cucchiaio ed un piattino: smetterete di cuocere la marmellata quando avrà raggiunto la consistenza cercata e messa sul piattino non si allargherà troppo.<br>
 Invasare e pastorizzare.<br>
@@ -86,9 +89,3 @@ Togliete dal fuoco e colate questa specie di sciroppo nella pentola in cui avete
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.323776963458%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">La mia SACHER</h2>
-
-<div><div id="810446303151170262" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

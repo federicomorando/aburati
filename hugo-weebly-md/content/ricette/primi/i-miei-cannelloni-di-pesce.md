@@ -8,14 +8,17 @@ tipo: "ricetta"
 ordine: 5
 weight: 5
 pagina_origine: "primi.html"
-ancora_origine: "cannellonipesce"
+ancora_origine: "entry-5"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei CANNELLONI DI PESCE</h2>
+
+<div><div id="198452282562773865" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="cannellonipesce"></a>
 Capodanno semplice con cannelloni di pesce veloci veloci<br>
 
 <br>
-Preparate le <a href="ricette-di-base.html#crespelle">crespelle </a> (ad esempio seguite la ricetta di base se avete una crepiera elettrica partendo da circa metà dose rispetto a quella pubblicata) e la <a href="ricette-di-base.html#besciamella">besciamella</a> (anche qui la ricetta di base è ok, soprattutto con la sostituzione del brodo di pesce a parte del latte).<br>
+Preparate le <a href="/ricette/ricette-di-base/impasto-per-le-crespelle-con-crepiera-elettrica-ad-immersione.html">crespelle </a> (ad esempio seguite la ricetta di base se avete una crepiera elettrica partendo da circa metà dose rispetto a quella pubblicata) e la <a href="/ricette/ricette-di-base/besciamella.html">besciamella</a> (anche qui la ricetta di base è ok, soprattutto con la sostituzione del brodo di pesce a parte del latte).<br>
 <br>
 <i><u>Nota</u></i>: Per preparare il fumetto di pesce pulite scampi e pesce spada e mettete tutti gli scampi in una pentola in cui avrete in precedenza soffritto leggermente l'aglio e poi aggiungete qualche bicchiere di acqua fredda e portate ad ebollizione a fuoco lento: più bolle e meglio è.<br>
 <br>
@@ -68,9 +71,3 @@ Fine<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.261627242151%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Le mie CICALE avvolte nel guanciale su zuppa densa di LENTICCHIE</h2>
-
-<div><div id="850150301283940583" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

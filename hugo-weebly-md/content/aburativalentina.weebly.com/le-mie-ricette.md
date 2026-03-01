@@ -11,16 +11,16 @@ Io infatti non cucino molto spesso perché ho poco tempo e quando lo faccio di s
 Nel mio ricettario non troverete ricette giapponesi: non perché non abbia già sperimentato, ma solo perché per quelle seguo fedelmente il mio libro. Se volete consigli e rientrate nella categoria di quelli che hanno la mia mail o il mio numero di telefono... contattatemi! Per lo meno vi posso consigliare tra i ristoranti della mia zona e quelli di alcune altre città europee (Londra e Madrid in testa...)<br>
 <br>
 Con estrema fantasia ed originalità, divido le mie ricette in 9 categorie + 1 (non iniziate e domandarvi quale siano e se io abbia veramente trovato una suddivisione non banale, leggetele, sono veramente il culmine della scontatezza):<br><br>
-<a href="antipasti.html"><b>Antipasti</b></a><br><br>
-<a href="primi.html"><b>Primi</b></a><br><br>
-<a href="secondi.html"><b>Secondi</b></a><br><br>
-<a href="contorni.html"><b>Contorni</b></a><br><br>
-<a href="dolci.html"><b>Dolci</b></a><br><br>
-<a href="trucchi--consigli.html"><b>Consigli</b></a><br><br>
-<a href="ricette-di-base.html"><b>Ricette di base</b></a><br><br>
-<a href="ricette-che-non-ho-ancora-provato.html"><b>Ricette che non ho ancora provato</b></a><br><br>
-<a href="ricette-che-vorrei-trovare.html"><b>Ricette che vorrei trovare</b></a><br><br>
-<a href="bimby.html"><b>Bimby</b></a><br>
+<a href="/aburativalentina.weebly.com/antipasti.html"><b>Antipasti</b></a><br><br>
+<a href="/aburativalentina.weebly.com/primi.html"><b>Primi</b></a><br><br>
+<a href="/aburativalentina.weebly.com/secondi.html"><b>Secondi</b></a><br><br>
+<a href="/aburativalentina.weebly.com/contorni.html"><b>Contorni</b></a><br><br>
+<a href="/aburativalentina.weebly.com/dolci.html"><b>Dolci</b></a><br><br>
+<a href="/aburativalentina.weebly.com/trucchi--consigli.html"><b>Consigli</b></a><br><br>
+<a href="/aburativalentina.weebly.com/ricette-di-base.html"><b>Ricette di base</b></a><br><br>
+<a href="/aburativalentina.weebly.com/ricette-che-non-ho-ancora-provato.html"><b>Ricette che non ho ancora provato</b></a><br><br>
+<a href="/aburativalentina.weebly.com/ricette-che-vorrei-trovare.html"><b>Ricette che vorrei trovare</b></a><br><br>
+<a href="/aburativalentina.weebly.com/bimby.html"><b>Bimby</b></a><br>
 
 <br>
 Ebbene si... in casa si è aggiunto il Thermomix, altresì noto come Bimby.....<br>

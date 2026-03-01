@@ -5,8 +5,8 @@ source_file: "contorni.html"
 ---
 
 <div><div id="432413296645753023" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="contorni.html#peperonata">La mia PEPERONATA</a><br>
-<a href="contorni.html#champignon">I miei CHAMPIGNON TRIFOLATI</a><br></div>
+<a href="/ricette/contorni/la-mia-peperonata.html">La mia PEPERONATA</a><br>
+<a href="/ricette/contorni/i-miei-champignon-trifolati.html">I miei CHAMPIGNON TRIFOLATI</a><br></div>
 
 
 
@@ -58,7 +58,7 @@ Pulite i peperoni, eliminando i semi e tagliandoli a striscioline sottile; sbucc
 In una pentola dal bordo alto mettete 2/3 del burro e fatelo fondere a fuoco lento aggiungete i peperoni, facendoli rosolare nel vino e mescolando frequentemente. Aggiungete il dado e parte delle olive. Dopo qualche minuto è la volta dei pomodori (con un pizzico di zucchero - io metto sempre lo zucchero quando faccio cuocere i pomodori per ridurre l'acidità). Fate cuocere per 5 minuti minuti. Alzate il fuoco, aggiungete le carote e le acciughe facendole  "sfaldare".<br>
 Continuate la cottura, facendo consumare bene la salsa di pomodoro controllando e mescolando periodicamente (dovrebbero volerci ancora una ventina di minuti). A cottura terminate verificate il sale, aggiungete le olive ed il burro rimasto. <br>
 <br>
-<div style="text-align:right"><a href="contorni.html#indice">Indice contorni</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/contorni.html#indice">Indice contorni</a></div></div>
 
 
 
@@ -105,7 +105,7 @@ Ecco i miei champignon, un'altra ricetta rapida e velocissima da utilizzare come
 <br><br>
 Pulite i funghi dai residui di terra e tagliateli a fettine sottili (un paio di millimetri). Pulite l'aglio, privatelo dell'anima (così rimane più delicato, soprattutto visto che poi è piuttosto difficile riconoscerlo dai funghi :)) e fatelo appassire a fuoco lento nel burro. Aggiungete i funghi e dopo 2 minuti la panna. Fate cuocere per altri 5 minuti a fuoco vivace, aggiungete il prezzemolo e terminate la cottura: potete scegliere se lasciare un po' più "pannoso" e legato oppure se lasciar cuocere maggiormente ed avere i funghi un po' croccanti (dipende molto dal piatto principale). Non posso lasciarvi una foto: sono finiti troppo presto.<br>
 <br>
-<div style="text-align:right"><a href="contorni.html#indice">Indice contorni</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/contorni.html#indice">Indice contorni</a></div>
 <br>
 </div>
 

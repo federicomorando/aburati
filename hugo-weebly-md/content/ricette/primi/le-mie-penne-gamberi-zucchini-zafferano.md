@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 4
 weight: 4
 pagina_origine: "primi.html"
-ancora_origine: "gamberizucchini"
+ancora_origine: "entry-4"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Le mie PENNE GAMBERI, ZUCCHINI, ZAFFERANO</h2>
+
+<div><div id="321831920675434980" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="gamberizucchini"></a>
 Amici a pranzo... menù di pesce, ma non abbastanza tempo per fare il risotto.... Che si fa? Penne!
 <br><br>
 Pulite i gamberi dal carapace e dalle teste che conserverete e metterete in un pentolino con un po' d'acqua, facendo poi bollire il tutto per creare una sorta di fumetto. <br>
@@ -63,9 +66,3 @@ Aggiustate di pepe e servite.<br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.313009385357%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei CANNELLONI DI PESCE</h2>
-
-<div><div id="198452282562773865" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

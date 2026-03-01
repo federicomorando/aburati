@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 6
 weight: 6
 pagina_origine: "secondi.html"
-ancora_origine: "costine"
+ancora_origine: "entry-6"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">Le mie COSTINE DI MAIALE MIELE E PAPRIKA con SALSA DI MELE</h2>
+
+<div><div id="971666930888945079" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="costine"></a>
 Una ricetta semplice per delle costine da leccarsi le dita ;)<br>
 <br>
 Preriscaldare il forno a 200°. Massaggiate le costine con l'olio evo e poi disponetele in una taglia sulla carta da forno. Aggiungere aromi a piacere (si consiglia rosmarino; si sconsiglia l'alloro). Cuocere le costine in forno per circa 30 minuti, finché iniziano a dorare da entrambi i lati (girarle almeno una volta).<br>
@@ -65,9 +68,3 @@ eventualmente... <br>
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.334629815866%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">I miei OSSIBUCHI ALLA MILANESE</h2>
-
-<div><div id="905100242131801770" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

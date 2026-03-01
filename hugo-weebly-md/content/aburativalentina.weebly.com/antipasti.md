@@ -5,9 +5,9 @@ source_file: "antipasti.html"
 ---
 
 <div><div id="143900499707387847" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="antipasti.html#friselle">Le mie FRISELLE DI PESCE</a><br>
+<a href="/ricette/antipasti/le-mie-friselle-di-pesce.html">Le mie FRISELLE DI PESCE</a><br>
  
-<a href="antipasti.html#crostoni">I miei CROSTONI RUSTICI</a><br></div>
+<a href="/ricette/antipasti/i-miei-crostoni-rustici.html">I miei CROSTONI RUSTICI</a><br></div>
 
 
 
@@ -62,7 +62,7 @@ Se vi avanza del sugo, potete metterlo in frigorifero (si conserva per un paio d
 <br>
 Un piccolo consiglio: i molluschi o si cuociono per pochi secondi o per almeno dieci minuti: in mezzo li troverete abbastanza duri. La cottura breve è solo se siete sicuri della provenienza e della freschezza. Nei misti io non mi fido mai più di tanto...<br>
 <br>
-<div style="text-align:right"><a href="antipasti.html#indice">Indice antipasti</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/antipasti.html#indice">Indice antipasti</a></div>
 </div>
 
 
@@ -134,7 +134,7 @@ Disponete le fette di pane su un piatto con il lato non tostato in alto ed adagi
 
 <br>
 <br>
-<div style="text-align:right"><a href="antipasti.html#indice">Indice antipasti</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/antipasti.html#indice">Indice antipasti</a></div></div>
 
 
 

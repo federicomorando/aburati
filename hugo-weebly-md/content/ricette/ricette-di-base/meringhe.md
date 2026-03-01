@@ -8,7 +8,7 @@ tipo: "ricetta"
 ordine: 4
 weight: 4
 pagina_origine: "ricette-di-base.html"
-ancora_origine: "meringhe"
+ancora_origine: "entry-4"
 body_class: "no-header-page wsite-theme-light"
 ---
 
@@ -17,7 +17,7 @@ Forse lo sapete... le meringhe che comprate in pasticceria tutti i giorni vengon
 
 Qui di seguito quindi la ricetta per le tipiche meringhe da pasticceria, quelle solide con al limite l'interno un po' "crudo" che sono tanto buone con la panna, col cioccolato fondente o con la crema pasticcera....<br>
 <br>
-Trovate un'interpretazione delle meringhe nella pagina dei dolci per <a href="dolci.html#coppette">Le mie COPPETTE DI TERRAFERMA</a>.<br>
+Trovate un'interpretazione delle meringhe nella pagina dei dolci per <a href="/ricette/dolci/le-mie-coppette-di-terraferma.html">Le mie COPPETTE DI TERRAFERMA</a>.<br>
 <br>
 <u>Ingredienti</u>:<br>
 - 5 albumi<br>
@@ -27,7 +27,7 @@ lo zucchero a velo). Deve essere il doppio del peso degli albumi<br>
 <br>
 Separate bene i tuorli dagli 
 albumi. Asciugate bene tutti attrezzi, mettete in una ciotola gli albumi con un 
-pizzico di sale ed iniziate a montarli a neve. (Leggete eventualmente i commenti su <a href="trucchi--consigli.html">Trucchi&Consigli</a>)<br>
+pizzico di sale ed iniziate a montarli a neve. (Leggete eventualmente i commenti su <a href="/aburativalentina.weebly.com/trucchi--consigli.html">Trucchi&Consigli</a>)<br>
 <br>
 A metà aggiungete lentamente lo 
 zucchero (vi siete ricordati di frullarlo?), il cui peso deve essere pari al 

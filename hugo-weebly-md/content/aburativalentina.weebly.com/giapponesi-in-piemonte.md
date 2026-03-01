@@ -8,11 +8,11 @@ source_file: "giapponesi-in-piemonte.html"
 Ovviamente rifuggiamo come la peste i cinesi/thai trasformatisi in giappo per seguire la moda. meglio i nostri cari vecchi amici.
 <br><br>
 <a name="indice"></a>
-<a href="giapponesi-in-piemonte.html#wasabi">Torino: WASABI</a><br>
-<a href="giapponesi-in-piemonte.html#osaka">Torino: OSAKA</a><br>
-<a href="giapponesi-in-piemonte.html#japs">Torino: JAPS</a><br>
-<a href="giapponesi-in-piemonte.html#kiki">Torino: KIKI</a><br>
-<a href="giapponesi-in-piemonte.html#tokyo">Novi Ligure: TOKYO</a><br><br>
+<a href="/recensioni/giapponesi-in-piemonte/wasabi-torino.html">Torino: WASABI</a><br>
+<a href="/recensioni/giapponesi-in-piemonte/osaka-torino.html">Torino: OSAKA</a><br>
+<a href="/recensioni/giapponesi-in-piemonte/japs-torino.html">Torino: JAPS</a><br>
+<a href="/recensioni/giapponesi-in-piemonte/kiki-torino.html">Torino: KIKI</a><br>
+<a href="/recensioni/giapponesi-in-piemonte/tokyo-novi-ligure.html">Novi Ligure: TOKYO</a><br><br>
 
 PS: A Novi l'offerta è mutata, ma non bazzichiamo più molto da quelle parti e soprattutto... niente giappo per un po'.<br></div>
 
@@ -30,7 +30,7 @@ L'atmosfera è molto più giapponese che nella media dei concorrenti torinesi, a
 Il pesce è di prima qualità e la tempura molto leggera e non unta. Anche il salmone, che che a volte corre il rischio di essere un po' grasso è invece magro e tenero. Sono disponibili anche alcuni piatti un po' più ricercati ed interessanti che non includono solo sushi e sashimi, inclusi alcuni dolci tradizionali al di fuori dello gnocco di fagioli rossi e con qualche vino giapponese affiancato a più tradizionali vini italiani soprattutto piemontesi. Il menù degustazione è piuttosto vario e permette a quelli che affrontano per la prima volta il giapponese di avere una buona panoramica. <br>
 Rispetto ad altri giapponesi la superiore qualità si paga nei tempi del servizio (che però è comunque piuttosto&nbsp; rapido, nel conto (circa 40€ a testa per saziarsi), nelle porzioni un po' più piccole con fettine di pesce un po' più sottili e nel fatto che è necessario prenotare (soprattutto nel week end) con un certo anticipo. Quattro nei: l'edamame (non servito caldo e con scaglie di sale grosso come piace a me), il te (disponibile solo a tazza e non con la classica teiera in ghisa e quindi è necessario procedere con più ordinazioni nel corso della cena), il parcheggio (la zona di Corso Ferrucci non è nota per la facilità di parcheggio, anche se noi siamo sempre stati molto fortunati) e la dimensione dei tavoli fissa (non credo sia possibile fare tavolate per più di 6/7 persone, ma non è detto che questo possa essere considerato da tutti come neo). <br>
 <br>
-<div style="text-align:right"><a href="giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div>
 </div>
 
 
@@ -46,7 +46,7 @@ Il pesce è buono, le fettine di pesce abbondanti, a volte manca un po' la cura 
 L'aspetto del locale è pulito ed ordinato, la location non proprio centrale (come millantato nel sito <a href="http://www.ristorantegiapponesearcosaka.com/" target="_blank">www.ristorantegiapponesearcosaka.com</a>) e il trovare parcheggio è spesso complicato, ma i prezzi contenuti (20€ a testa) meritano la deviazione. La consegna a domicilio ha prezzi differenti a seconda se fatta a pranzo o a cena, ma comunque contenuti (3€ a pranzo, 5€ a cena), ma è sempre molto puntuale. Nel kit a domicilio sono inclusi wasabi in bustina, salsa di soya monodose, vaschetta in plastica per la soya e bacchette usa e getta.<br>
 <br>
 <br>
-<div style="text-align:right"><a href="giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
 
 
 
@@ -54,9 +54,9 @@ L'aspetto del locale è pulito ed ordinato, la location non proprio centrale (co
 
 <div><div id="235550572639305053" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="japs"></a><b><h1>JAPS, Torino</h1></b><br>
 Japs (Torino) - provato solo nella variante "consegna a domicilio" e "take away".<br>
-Il vero vantaggio del posto è l'interfaccia internet (<a href="http://www.japs.it/" target="_blank">www.japs.it</a>) per effettuare le ordinazioni che facilita la possibilità di ben dosare l'ordine, scegliere con calma a casa, valutare i piatti con anche le fotografia (per chi si avvicina alla cucina giapponese e si trova perso tra nigiri, sushi, etc). Si sente qui la differenza tra piatti preparati sul momento e pesce di ottima qualità e questa soluzione un po' più low cost, in cui anche il riso ha guadagnato un po' troppa collosità. Disponibili anche i bento per chi vuole provare un pasto completo alla giapponese. I costi non sono alla fine molto diversi da quelli dell'<a href="giapponesi-in-piemonte.html#osaka">Osaka</a> quindi, a nostro avviso, a meno che nei giorni di chiusura o per ordini all'ultimo minuto l'altra soluzione è spesso consigliabile. Nel kit a domicilio sono inclusi wasabi in bustina, salsa di soya monodose e bacchette usa e getta, simpatici tovagliolini arancioni che danno colore alla tavola. A volte è possibile trovare le vaschette di Japs all'interno degli ipermercati nel banco pesce.<br>
+Il vero vantaggio del posto è l'interfaccia internet (<a href="http://www.japs.it/" target="_blank">www.japs.it</a>) per effettuare le ordinazioni che facilita la possibilità di ben dosare l'ordine, scegliere con calma a casa, valutare i piatti con anche le fotografia (per chi si avvicina alla cucina giapponese e si trova perso tra nigiri, sushi, etc). Si sente qui la differenza tra piatti preparati sul momento e pesce di ottima qualità e questa soluzione un po' più low cost, in cui anche il riso ha guadagnato un po' troppa collosità. Disponibili anche i bento per chi vuole provare un pasto completo alla giapponese. I costi non sono alla fine molto diversi da quelli dell'<a href="/recensioni/giapponesi-in-piemonte/osaka-torino.html">Osaka</a> quindi, a nostro avviso, a meno che nei giorni di chiusura o per ordini all'ultimo minuto l'altra soluzione è spesso consigliabile. Nel kit a domicilio sono inclusi wasabi in bustina, salsa di soya monodose e bacchette usa e getta, simpatici tovagliolini arancioni che danno colore alla tavola. A volte è possibile trovare le vaschette di Japs all'interno degli ipermercati nel banco pesce.<br>
 <br>
-<div style="text-align:right"><a href="giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
 
 
 
@@ -67,7 +67,7 @@ Kiki (Torino) - provato solo nella variante "consegna a domicilio" (<a href="htt
 Nella consegna a domicilio si perde un po' troppo la visione del locale e la cultura giapponese, ma si può comunque apprezzare la qualità della preparazione, la disposizione nelle vaschette di plastica ed ovviamente la qualità del pesce. Il Kiki si trova quindi ad un livello superiore rispetto ad altri ristoranti e si può anche ordinare degli amaebi senza troppe preoccupazioni.<br>
 Nel kit a domicilio sono inclusi wasabi fresco (notate la differenza!), salsa di soya monodose, vaschetta in&nbsp; plastica per la soya e bacchette usa e getta. Il costo non è proibitivo, ma sicuramente superiore all'Osaka ed al Japs.<br>
 <br>
-<div style="text-align:right"><a href="giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div>
 </div>
 
 
@@ -78,7 +78,7 @@ Nel kit a domicilio sono inclusi wasabi fresco (notate la differenza!), salsa di
 Tokyo,&nbsp;Via Giuseppe Mazzini, 189, Novi Ligure, 0143 323963<br>
 Quando ha aperto il primo giapponese a Novi non potevamo mancare. L'ingresso nel locale non ci ha piacevolmente colpito: il locale ampio, rumoroso e nessuno che accoglie all'ingresso non sono proprio un ottimo biglietto da visita. Simpatiche alcune aree riservate lungo il perimetro in cui è ricostruito un ambiente giapponese con possibilità di sedersi inginocchiati o all'occidentale. Cucina a vista, porcellane molto carine, bacchette usa e getta ed una cameriera che passa offrendo posate occidentali (anche a chi sta già mangiando con le bacchette....). In generale il servizio non molto accurato ed una cortesia non esattamente giapponese. Il menù in generale è un misto tra cucina cinese e cucina giapponese con tanti noodles per chi non riesce a resistere senza spaghetti.<br>
 Unica nota di interesse: Il sashimi di gamberoni disponibili quel giorno e consigliati in sostituzione del sashimi di capesante che, pur essendo in menù era terminato. Riso decisamente da dimenticare e nigiri e maki preparati un po' frettolosamente. I prezzi non certo competitivi, almeno con quelli di Torino. L'apertura di un giapponese a Novi, comunque, era una esigenza sentita, infatti il locale era decisamente affollato.<br><br>
-<div style="text-align:right"><a href="giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html#indice">Giapponesi in Piemonte</a></div></div>
 
 
 

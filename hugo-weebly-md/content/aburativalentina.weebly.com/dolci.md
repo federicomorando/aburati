@@ -5,22 +5,22 @@ source_file: "dolci.html"
 ---
 
 <div><div id="750299626938128166" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="indice"></a>
-<a href="dolci.html#plisse">La mia TORTA PLISSÉ</a> (con <a href="dolci.html#plastico">CIOCCOLATO PLASTICO)</a>
+<a href="/ricette/dolci/la-mia-torta-plisse.html">La mia TORTA PLISSÉ</a> (con <a href="/ricette/dolci/cioccolato-plastico.html">CIOCCOLATO PLASTICO)</a>
 <br>
-<a href="dolci.html#tartufata">La mia TORTA TARTUFATA ALL'AMARETTO</a>
+<a href="/ricette/dolci/la-mia-torta-tartufata-all-amaretto.html">La mia TORTA TARTUFATA ALL'AMARETTO</a>
 <br>
-<a href="dolci.html#muffin">I miei MUFFIN AL DOPPIO CIOCCOLATO</a>
+<a href="/ricette/dolci/i-miei-muffin-al-doppio-cioccolato.html">I miei MUFFIN AL DOPPIO CIOCCOLATO</a>
 <br>
-<a href="dolci.html#marmellata">La nostra MARMELLATA DI MORE (con COULIS)</a>
+<a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">La nostra MARMELLATA DI MORE (con COULIS)</a>
 <br>
-<a href="dolci.html#sacher">La mia SACHER</a><br>
-<a href="dolci.html#coppette">Le mie COPPETTE DI TERRAFERMA</a><br>
-<a href="dolci.html#tartetatin">La mia TARTE TATIN</a><br>
-<a href="dolci.html#tartetatinbanana">La mia TARTE TATIN alla BANANA con scaglie di CIOCCOLATO</a><br>
-<a href="dolci.html#cheesecake">La mia CHEESECAKE ITALIANA</a><br>
-<a href="dolci.html#albumi">La mia TORTA AL CACAO (e tanti albumi)</a><br>
-<a href="dolci.html#yogurt">La mia TORTA ALLO YOGURT FREDDA</a><br>
-<a href="dolci.html#fantastico">Il mio FANTASTICO SOUFFLÉ (dal cuore morbido e preparazione fast)</a><br>
+<a href="/ricette/dolci/la-mia-sacher.html">La mia SACHER</a><br>
+<a href="/ricette/dolci/le-mie-coppette-di-terraferma.html">Le mie COPPETTE DI TERRAFERMA</a><br>
+<a href="/ricette/dolci/la-mia-tarte-tatin.html">La mia TARTE TATIN</a><br>
+<a href="/ricette/dolci/la-mia-tarte-tatin-alla-banana-con-scaglie-di-cioccolato.html">La mia TARTE TATIN alla BANANA con scaglie di CIOCCOLATO</a><br>
+<a href="/ricette/dolci/la-mia-cheesecake-italiana.html">La mia CHEESECAKE ITALIANA</a><br>
+<a href="/ricette/dolci/la-mia-torta-al-cacao-e-tanti-albumi.html">La mia TORTA AL CACAO (e tanti albumi)</a><br>
+<a href="/ricette/dolci/la-mia-torta-allo-yogurt-fredda.html">La mia TORTA ALLO YOGURT FREDDA</a><br>
+<a href="/ricette/dolci/il-mio-fantastico-souffle-dal-cuore-morbido-e-preparazione-fast.html">Il mio FANTASTICO SOUFFLÉ (dal cuore morbido e preparazione fast)</a><br>
 </div>
 
 
@@ -48,11 +48,11 @@ Se non usate gli stampi in silicone aggiungete 20 gr di farina e 20 gr di burro 
 <br>
 <u>Per farcire la torta</u>:<br>
  - 4 dl panna fresca da montare<br>
-- 2 cucchiai di marmellata di more (potete prendere la ricetta <a href="dolci.html#marmellata">qui</a>) <br>
+- 2 cucchiai di marmellata di more (potete prendere la ricetta <a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">qui</a>) <br>
 - 1 cucchiaio di cacao in polvere amaro<br>
 - 4 cucchiaio di zucchero a velo <br>
 - 1 cucchiaino di amaretto<br>
-- 170 gr di <b><a href="dolci.html#plastico">cioccolato plastico</a></b> bianco<br></div>
+- 170 gr di <b><a href="/ricette/dolci/cioccolato-plastico.html">cioccolato plastico</a></b> bianco<br></div>
 
 
 
@@ -85,7 +85,7 @@ Verificate che il forno sia a temperatura, trasferite il composto in uno stampo 
 <br>
 Lasciate raffreddare la torta e poi tagliatela orizzontalmente facendo due dischi.<br>
 <br>
-Scaldate due cucchiai di acqua ed aggiungeteli alla <a href="dolci.html#marmellata">MARMELLATA DI MORE</a> o di LAMPONI (o al limite di arance) e mescolate energicamente per non avere grumi. Spennellate la marmellata sulla torta e ricomponetela.<br>
+Scaldate due cucchiai di acqua ed aggiungeteli alla <a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">MARMELLATA DI MORE</a> o di LAMPONI (o al limite di arance) e mescolate energicamente per non avere grumi. Spennellate la marmellata sulla torta e ricomponetela.<br>
 <br>
 Montate 2 dl di panna con l'amaretto un po' più a lungo del normale in modo che diventi molto consistente. Ricoprire la torta con la panna montata in modo uniforme (anche sul bordo).<br>
 <br>
@@ -105,7 +105,7 @@ Questo è il mio risultato (era per un compleanno: 28 anni, auguri!).<br>
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/8805195_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/8805195_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -113,7 +113,7 @@ Questo è il mio risultato (era per un compleanno: 28 anni, auguri!).<br>
 <div><div id="253467791388551529" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
 Montate la restante panna montata e servite una fetta di torta con la panna a lato.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -187,7 +187,7 @@ Potete scegliere di aggiungere (al cioccolato bianco) dei coloranti alimentari s
 Il sapore è simile a quello del cioccolato anche se con un retrogusto un po' più dolce ed una consistenza simile al marzapane.<br>
 Ricordatevi che non va usato in estate perché tende a sciogliersi e che se lo mettete su una torta conviene che questa sia stata spennellata di panna, sciroppo o marmellata, in modo che il cioccolato aderisca meglio. <br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -275,7 +275,7 @@ Spolverate la torta col cacao (facendolo passare attraverso un colino a trama fi
 <br>
 Et voilà! Pronta!<br>
 <div style="text-align:right"><br>
-<a href="dolci.html#indice">Indice dolci</a></div>
+<a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div>
 </div>
 
 
@@ -348,7 +348,7 @@ Far fondere il burro e rompere a piccoli pezzi il cioccolato fondente. I pezzi d
 <br>
 Una volta raffreddati se vi siete resi conto che siete solo in due e quindi vi farebbe male mangiare tutti i muffin potete optare tra due soluzioni: portarli in ufficio (di solito i colleghi apprezzano) o metterli in contenitori di plastica e congelarli. In questo secondo caso state attenti che il contenitore si chiuda bene e di non metterne troppi nello stesso. Quando li tirerete fuori passateli direttamente nel microonde e serviteli caldi accompagnati con panna montata o gelato.<br>
 <div style="text-align:right"><br>
-<a href="dolci.html#indice">Indice dolci</a></div></div>
+<a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -399,7 +399,7 @@ E gli attrezzi di questa ricetta sono:<br>
 Pulite velocemente le more liberandole del picciuolo, passatele sotto l'acqua corrente e poi mettete a scolare nello scolapasta.<br>
 Quando saranno quasi completamente asciutte mettetele in una pentola che metterete sul fuoco mantenendolo medio (o, nel mio caso, sul piano a cottura ad induzione su 5. o 6).<br>
 Piano piano cambieranno colore: giratele lentamente per qualche minuto fino a quando non saranno tutte rosse e sembreranno molto morbide.<br>
-a questo punto passatele col passaverdura per eliminare tutti i semini.... Buon lavoro!!!!! (Non buttate via i semini, si possono riutilizzare per preparare nel frattempo una <u><b><a href="dolci.html#coulis">coulis di more</a></b></u> da mettere sul gelato fiordilatte che servirà per accompagnare la vostra crostata di more ;))<br>
+a questo punto passatele col passaverdura per eliminare tutti i semini.... Buon lavoro!!!!! (Non buttate via i semini, si possono riutilizzare per preparare nel frattempo una <u><b><a href="/aburativalentina.weebly.com/dolci.html#coulis">coulis di more</a></b></u> da mettere sul gelato fiordilatte che servirà per accompagnare la vostra crostata di more ;))<br>
 Quando tutta la polpa sarà passata, pesatela ed assaggiatela. A questo punto occorre calcolare la quantità di zucchero: vi servirà tra 1/2 e i 2/3 del peso delle more a seconda dei vostri gusti e della dolcezza delle more stesse. Mai scendere sotto i 1/2 altrimenti la marmellata non vi durerà.<br>
 Mettete tutto sul fuoco basso e iniziate a mescolare, rimuovendo la schiuma rossiccia che pian piano si forma in cima. Tenetevi vicino un cucchiaio ed un piattino: smetterete di cuocere la marmellata quando avrà raggiunto la consistenza cercata e messa sul piattino non si allargherà troppo.<br>
 Invasare e pastorizzare.<br>
@@ -410,7 +410,7 @@ Un suggerimento: se fate subito una crostata togliete un paio di mestolate un po
 Nella pentola in cui avete fatto arrossire le more inizialmente mettete i semini rimasti dopo aver passato le more con circa un litro di acqua e fate bollire per qualche minuto.<br>
 Togliete dal fuoco e colate questa specie di sciroppo nella pentola in cui avete fatto la marmellata (io continuo a riutilizzare gli stessi strumenti per aver meno da lavare dopo e raccogliere tutto il possibile sapore residuo di more ;), ma potete fare il tutto in contemporanea alla marmellata). Aggiungete zucchero qb e fate cuocere fino a quando non raggiunge la consistenza desiderata. Da conservare in frigo per qualche settimana.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -464,11 +464,11 @@ Togliete dal fuoco e colate questa specie di sciroppo nella pentola in cui avete
 <h2 class="wsite-content-title" style="text-align:left;">La mia SACHER</h2>
 
 <div><div id="810446303151170262" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="sacher"></a>
-La mia Sacher non è proprio quella che trovate a Vienna e non assomiglia nemmeno alla Demel... è la mia versione che tra l'altro prevede l'utilizzo di una marmellata diversa da quella di albicocche: a scelta si può farcire con la nostra <a href="dolci.html#marmellata">MARMELLATA DI MORE</a> o con la MARMELLATA DI LAMPONI (per cui non abbiamo ancora la ricetta, pur avendola già fatta). <br>
+La mia Sacher non è proprio quella che trovate a Vienna e non assomiglia nemmeno alla Demel... è la mia versione che tra l'altro prevede l'utilizzo di una marmellata diversa da quella di albicocche: a scelta si può farcire con la nostra <a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">MARMELLATA DI MORE</a> o con la MARMELLATA DI LAMPONI (per cui non abbiamo ancora la ricetta, pur avendola già fatta). <br>
 <br>
 Io uso sempre gli stampi in silicone (ed in questo caso non imburro), se usate stampi diversi e non utilizzate la carta da forno considerate 20 gr in aggiunta di burro ed altrettanti di farina per la teglia. Io non amo la carta da forno con la Sacher perché non riesco a fare i bordi regolari :).
 <br>
-Per prima cosa occorre lavorare il burro con lo zucchero fino ad ottenere un composto chiaro e spumoso. Separare i tuorli dagli albumi ed incorporarli uno alla volta al burro e zucchero. Mettere il cioccolato a bagnomaria con il latte e farlo fondere, portarlo a temperatura ambiente ed aggiungerlo al composto precedente, mescolando energicamente. Aggiungere la farina e lo zucchero vanigliato e continuare a mescolare fino ad ottenere un impasto omogeneo. A parte montare gli albumi a neve ben ferma (per farlo io seguo tre piccoli trucchi: lasciare le uova a temperatura ambiente qualche minuto, aggiungere un  pizzico di sale, utilizzare la frusta elettrica sempre nella stessa direzione partendo con la velocità minima ed aumentando lentamente). Unite i due composti mescolando il meno possibile dal basso verso l'alto e per ultimo aggiungete il lievito. Mi raccomando: il lievito nei composti liquidi va sempre alla fine e va lavorato poco. Se invece avete un composto asciutto (come nei miei <a href="dolci.html#muffin">MUFFIN AL DOPPIO CIOCCOLATO</a>) potete unirlo a tale composto e mescolarlo senza problemi, facendo solo attenzione a quando la parte secca viene a contatto con la parte umida.<br>
+Per prima cosa occorre lavorare il burro con lo zucchero fino ad ottenere un composto chiaro e spumoso. Separare i tuorli dagli albumi ed incorporarli uno alla volta al burro e zucchero. Mettere il cioccolato a bagnomaria con il latte e farlo fondere, portarlo a temperatura ambiente ed aggiungerlo al composto precedente, mescolando energicamente. Aggiungere la farina e lo zucchero vanigliato e continuare a mescolare fino ad ottenere un impasto omogeneo. A parte montare gli albumi a neve ben ferma (per farlo io seguo tre piccoli trucchi: lasciare le uova a temperatura ambiente qualche minuto, aggiungere un  pizzico di sale, utilizzare la frusta elettrica sempre nella stessa direzione partendo con la velocità minima ed aumentando lentamente). Unite i due composti mescolando il meno possibile dal basso verso l'alto e per ultimo aggiungete il lievito. Mi raccomando: il lievito nei composti liquidi va sempre alla fine e va lavorato poco. Se invece avete un composto asciutto (come nei miei <a href="/ricette/dolci/i-miei-muffin-al-doppio-cioccolato.html">MUFFIN AL DOPPIO CIOCCOLATO</a>) potete unirlo a tale composto e mescolarlo senza problemi, facendo solo attenzione a quando la parte secca viene a contatto con la parte umida.<br>
 Portate il forno a 180°, mettete il composto in una tortiera ed infornate per circa 40 minuti.<br>
 <br>
 Togliete la torta dal forno e lasciatela intiepidire, dopo averla sformata. Tagliatela per il largo (la vera Sacher prevede tre dischi con quello centrale più stretto, se decidete di seguire questa procedura, aumentate di 1/3 la marmellata). Cospargete il disco inferiore con un velo di marmellata, lasciandone da parte un cucchiaino. Mettete questo cucchiaino in un bicchiere con un po' d'acqua, mescolate bene e con questo composto spennellate la torta lungo tutta la superficie.<br>
@@ -476,7 +476,7 @@ Togliete la torta dal forno e lasciatela intiepidire, dopo averla sformata. Tagl
 A questo punto potete passare a fare la glassa. Mi raccomando: prima pulite bene la torta ed eliminate tutte le briciole che avete fatto tagliandola.<br>
 Fate fondere il cioccolato a bagnomaria, incorporando il burro. Togliete dal fuoco, aggiungete lo zucchero a velo, mescolate bene ed aggiungete 3 o 4 cucchiai d'acqua. Bagnate nell'acqua fredda un coltello largo (o munitevi dell'apposita spatola) e versate la glassa sulla torta in maniera omogenea, livellandola con la spatola/coltello, avendo la cura di coprire con la glassa anche lungo i bordi. Lasciar raffreddare.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -535,7 +535,7 @@ Il mio risultato finale è questo:<br></div>
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a href='uploads/1/8/5/1/18517628/5658095_orig.jpg' rel='lightbox' onclick='if (!lightboxLoaded) return false'>
-<img src="uploads/1/8/5/1/18517628/5658095_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/5658095_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -563,7 +563,7 @@ Fate sciogliere a bagnomaria la cioccolata fondente, aggiungete 4 cucchiai di la
 <br>
 Assemblate il tutto se consumate in giornata, altrimenti lasciate le meringhe ed i biscotti da parte perché se li lasciate in frigorifero si ammorbidiscono troppo mentre la crema e la meringa parzialmente cruda non possono rimanere fuori dal frigorifero....<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div>
 </div>
 
 
@@ -615,7 +615,7 @@ Preparatevi tagliando le mele a fettine sottili. In una tortiera dal bordo basso
 Tirate fuori la torta dal forno e sformatela mentre è ancora calda su un piatto. Lasciate raffreddare per pochi minuti. <br>
 Intanto montate la panna con l'amaretto e lo zucchero. Servite la torta ancora calda con una cucchiaio di panna accanto. (In alternativa preparate del gelato alla crema e utilizzate il gelato come accompagnamento alla torta).<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -670,7 +670,7 @@ Bucherellate con i rebbi di una forchetta la sfoglia ed infornate per circa 30 m
 Tirate fuori la torta dal forno e sformatela mentre è ancora calda su un piatto. Lasciate raffreddare per pochi minuti e poi aggiungete il resto del cioccolato tritato in scaglie.<br>
 Buon appetito.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -753,7 +753,7 @@ Cuocete la cheesecake nel forno già caldo per circa 1 ora.<br>
 Lasciate raffreddare lentamente e poi mettete in frigorifero (meglio se per un giorno intero!).<br>
 <br>
 Poco prima di servire preparate una veloce crema per glassare la torta con il cioccolato ed il latte facendo sciogliere il cioccolato (a bagnomaria o nel microonde) ed aggiungendo lentamente il latte (a temperatura ambiente). Mescolate energicamente e lasciate al caldo in modo che non si addensi e faccia da contrasto con la torta fredda.<br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -802,13 +802,13 @@ Per la <u>guarnizione</u>:<br>
 					
 						
 
-<h2 class="wsite-content-title" style="text-align:left;"><a style="" href="dolci.html#albumi">La mia TORTA AL CACAO (e tanti albumi)</a></h2>
+<h2 class="wsite-content-title" style="text-align:left;"><a style="" href="/ricette/dolci/la-mia-torta-al-cacao-e-tanti-albumi.html">La mia TORTA AL CACAO (e tanti albumi)</a></h2>
 
-<div><div id="498297407306047988" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="#albumi"></a>Mettiamo il caso che abbiate deciso di fare la <a href="ricette-di-base.html#pasticcera">Crema Pasticcera</a> o il Tiramisù o la Crema di Mascarpone... insomma mettiamo il caso che abbiate fatto qualcosa che richiedeva tanti tuorli e pochi o nessun albume per cui vi ritrovate con un sacco di albumi in frigorifero e poco tempo o poca voglia di fare le meringhe.<br>
+<div><div id="498297407306047988" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="#albumi"></a>Mettiamo il caso che abbiate deciso di fare la <a href="/ricette/ricette-di-base/crema-pasticcera.html">Crema Pasticcera</a> o il Tiramisù o la Crema di Mascarpone... insomma mettiamo il caso che abbiate fatto qualcosa che richiedeva tanti tuorli e pochi o nessun albume per cui vi ritrovate con un sacco di albumi in frigorifero e poco tempo o poca voglia di fare le meringhe.<br>
 <br>
-Ecco una ricetta che fa per voi: semplice, veloce e che utilizza un sacco di albumi! Una tolta molto leggera anche se un po' asciutta (ecco un difetto: è consigliabile servirla con un po' di <a href="ricette-di-base.html#pasticcera">Crema Pasticcera</a>... e quindi eccovi ad utilizzare altri tuorli ed a ritrovarvi con altri albumi e quindi a dover fare un'altra torta.... arghhhhhhhhhh è un terribile circolo vizioso!!!!)
+Ecco una ricetta che fa per voi: semplice, veloce e che utilizza un sacco di albumi! Una tolta molto leggera anche se un po' asciutta (ecco un difetto: è consigliabile servirla con un po' di <a href="/ricette/ricette-di-base/crema-pasticcera.html">Crema Pasticcera</a>... e quindi eccovi ad utilizzare altri tuorli ed a ritrovarvi con altri albumi e quindi a dover fare un'altra torta.... arghhhhhhhhhh è un terribile circolo vizioso!!!!)
 <br>
-Montate gli albumi a neve ferma con un pizzico di sale (nella sezione <a href="trucchi--consigli.html">Trucchi&Consigli</a> trovate qualche indicazione). Setacciate tutti gli altri ingredienti secchi (zucchero, farina. lievito, cacao) e mescolate bene. Accendete il forno e portatelo a 180°.<br>
+Montate gli albumi a neve ferma con un pizzico di sale (nella sezione <a href="/aburativalentina.weebly.com/trucchi--consigli.html">Trucchi&Consigli</a> trovate qualche indicazione). Setacciate tutti gli altri ingredienti secchi (zucchero, farina. lievito, cacao) e mescolate bene. Accendete il forno e portatelo a 180°.<br>
 Incorporate il composto asciutto con i tuorli mescolando dal basso verso l'alto con un cucchiaio di legno per non far smontare troppo gli albumi. Imburrate lo stampo e versatevi il composto. Infornate nel forno già caldo per 50 minuti. <br>
 <br>
 Insomma la ricetta è di 4 righe... più semplice di così!<br>
@@ -819,7 +819,7 @@ Se volete prima di guarnirla, tagliate la torta (una volta che sarà completamen
 <br>
 Dato il tipo di torta eviterei guarnizioni alcooliche che non si sposano molto bene col tipo di dolce.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -882,7 +882,7 @@ Servite ben fredda.<br>
 <font size="3"><b>Piccola variante</b></font><br>
 L'altro giorno avevo finito la panna (o meglio, scadeva il giorno dopo e non volevo buttare via la torta o essere costretta a mangiarmela tutta). Ho così sostituito con 2 parti di ricotta (140g) ed 1 di formaggio cremoso spalmabile (70g). Stessa procedura e risultato ottimo.<br>
 <br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 
@@ -927,7 +927,7 @@ L'altro giorno avevo finito la panna (o meglio, scadeva il giorno dopo e non vol
 					
 						
 
-<h2 class="wsite-content-title"><a title="" href="dolci.html#fantastico">Il mio FANTASTICO SOUFFL&Eacute; (dal cuore morbido e preparazione fast)</a><br /></h2>
+<h2 class="wsite-content-title"><a title="" href="/ricette/dolci/il-mio-fantastico-souffle-dal-cuore-morbido-e-preparazione-fast.html">Il mio FANTASTICO SOUFFL&Eacute; (dal cuore morbido e preparazione fast)</a><br /></h2>
 
 <div><div id="128805722914063358" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="fantastico"></a>Anni fa (circa 7!) ho letto su un sito di una ricetta brevissima per fare dei mini soufflé al cioccolato fondente simili a dei gateau con cuore morbido. Quando sono arrivata a casa ieri mia figlia mi ha chiesto una torta al cioccolato. Non volevo deluderla, ho cercato la ricetta che avevo letto e l'ho rifatta.<br>
 Faccio outing: non ho usato il solito cioccolato, ma quello delle uova di Pasqua e nonostante ciò il risultato è stato <u><b>fantasticamente fantasmagorico</b></u>.<br>L'introduzione è più lunga della ricetta<br><br>
@@ -937,7 +937,7 @@ Ho imburrato due pirottini in silicone e li ho riempiti con il composto di ciocc
 Ho infornato in forno ventilato a 200° per 8 minuti. 
 <br><b>NB</b>: Il tempo è molto importante per non far solidificare troppo l'interno che deve restare molto morbido.
 Una volta sformati li ho spolverizzati con zucchero a velo ed ho servito subito ancora caldi.<br><br>
-<div style="text-align:right"><a href="dolci.html#indice">Indice dolci</a></div></div>
+<div style="text-align:right"><a href="/aburativalentina.weebly.com/dolci.html#indice">Indice dolci</a></div></div>
 
 
 

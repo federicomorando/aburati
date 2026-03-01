@@ -8,12 +8,12 @@ tipo: "ricetta"
 ordine: 3
 weight: 3
 pagina_origine: "ricette-di-base.html"
-ancora_origine: "pasticcera"
+ancora_origine: "entry-3"
 body_class: "no-header-page wsite-theme-light"
 ---
 
 <h2>Crema Pasticcera</h2>
-Abbiamo visto che fare la <a href="ricette-di-base.html#besciamella">Besciamella</a> è una cosa semplice... altrettanto semplice fare la Crema Pasticcera... Inoltre se ve la fate in casa potete anche scegliere come aromatizzarla ed adattarla alle vostre ricette. Quindi... cosa aspettate?<br>
+Abbiamo visto che fare la <a href="/ricette/ricette-di-base/besciamella.html">Besciamella</a> è una cosa semplice... altrettanto semplice fare la Crema Pasticcera... Inoltre se ve la fate in casa potete anche scegliere come aromatizzarla ed adattarla alle vostre ricette. Quindi... cosa aspettate?<br>
 <br>
 <u>Ingredienti</u> per circa mezzo litro di crema:<br>
 - 500 ml latte<br>
@@ -45,3 +45,5 @@ Variante: tagliate il limone a metà, infilzatelo con una forchetta ed immergete
 
 <br>
 <br>
+
+<a name="meringhe"></a>

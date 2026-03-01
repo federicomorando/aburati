@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 3
 weight: 3
 pagina_origine: "secondi.html"
-ancora_origine: "rospo"
+ancora_origine: "entry-3"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">I miei CARTOCCI DI CODA DI ROSPO</h2>
+
+<div><div id="587277143980819755" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="rospo"></a>
 Ecco una ricetta veloce veloce ed anche salutare.
 <br><br>
 Prendete i tranci ed adagiateli su un quadratino di stagnola, da parte preparate un emulsione di soya, olio (poco di entrambi, considerate 2 cucchiaini di olio rasi ed 1/4 di cucchiaino di soya per ogni trancio) a cui aggiungete il peperoncino ed il pepe. <br>Tagliate la carota a dadini e fate lo stesso coi i pomodorini su cui metterete anche un pizzico (ma proprio un pizzico) di zucchero. Disponete questi due triti insieme con l'aglio, i capperi ed il dado granulare sui tranci e versate sopra l'emulsione. <br>Chiudete i cartocci, fate scaldare il forno a 180°, prendete una teglia non tanto grande e disponetevi i cartocci. Aggiungete un velo d'acqua ed infornate per una decina di minuti. Tirate fuori ed aprite i cartocci facendo attenzione a non far uscire il sughetto, aggiungete il prezzemolo, salate ed eventualmente pepate nuovamente. (L'emulsione può essere aggiunta anche a questo punto per una cucina ancora più leggera)<br><br>In pochi minuti avrete risolto un semplice secondo potendo così evitare di passare il tempo in cucina mentre i soliti amici sono a tavola :). Per la presentazione suggerisco di richiudere i cartocci e lasciarli "scoprire" ai commensali nei loro piatti dopo aver aggiunto alcune olive nere (meglio se taggiasche) grossolanamente tagliate. <br>
@@ -64,9 +67,3 @@ Prendete i tranci ed adagiateli su un quadratino di stagnola, da parte preparate
 
 					
 				</td>				<td class="wsite-multicol-col" style="width:79.091291201497%; padding:0 15px;">
-					
-						
-
-<h2 class="wsite-content-title" style="text-align:left;">Il mio TONNO ALL'AGGHIOTTA</h2>
-
-<div><div id="936542375421235669" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

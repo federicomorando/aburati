@@ -8,10 +8,13 @@ tipo: "ricetta"
 ordine: 1
 weight: 1
 pagina_origine: "dolci.html"
-ancora_origine: "plisse"
+ancora_origine: "entry-1"
 body_class: "no-header-page wsite-theme-light"
 ---
 
+<h2 class="wsite-content-title" style="text-align:left;">La mia TORTA PLISS&Eacute; (con CIOCCOLATO PLASTICO)</h2>
+
+<div><div id="943403000434220850" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><a name="plisse"></a>
 Tirate fuori le uova ed il burro dal frigo in modo che siano a temperatura ambiente.<br>
 <br>
 Separare le uova in due ciotole: una i bianchi e una i rossi. Con la frusta perfettamente pulita ed tutti gli strumenti asciutti montate a neve ferma gli albumi (non esagerate altrimenti poi diventa complicato mescolare tutti gli ingredienti e non avere grumi).<br>
@@ -30,7 +33,7 @@ Verificate che il forno sia a temperatura, trasferite il composto in uno stampo 
 <br>
 Lasciate raffreddare la torta e poi tagliatela orizzontalmente facendo due dischi.<br>
 <br>
-Scaldate due cucchiai di acqua ed aggiungeteli alla <a href="dolci.html#marmellata">MARMELLATA DI MORE</a> o di LAMPONI (o al limite di arance) e mescolate energicamente per non avere grumi. Spennellate la marmellata sulla torta e ricomponetela.<br>
+Scaldate due cucchiai di acqua ed aggiungeteli alla <a href="/ricette/dolci/la-nostra-marmellata-di-more-con-coulis.html">MARMELLATA DI MORE</a> o di LAMPONI (o al limite di arance) e mescolate energicamente per non avere grumi. Spennellate la marmellata sulla torta e ricomponetela.<br>
 <br>
 Montate 2 dl di panna con l'amaretto un po' più a lungo del normale in modo che diventi molto consistente. Ricoprire la torta con la panna montata in modo uniforme (anche sul bordo).<br>
 <br>
@@ -50,7 +53,7 @@ Questo è il mio risultato (era per un compleanno: 28 anni, auguri!).<br>
 
 <div><div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
 <a>
-<img src="uploads/1/8/5/1/18517628/8805195_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
+<img src="/aburativalentina.weebly.com/uploads/1/8/5/1/18517628/8805195_orig.jpg" alt="Immagine" style="width:100%;max-width:1063px" />
 </a>
 <div style="display:block;font-size:90%"></div>
 </div></div>
@@ -107,4 +110,89 @@ Montate la restante panna montata e servite una fetta di torta con la panna a la
 					
 						
 
-<div><div id="977547041317130074" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><font size="3"><b>
+<div><div id="977547041317130074" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><font size="3"><b><a name="plastico">CIOCCOLATO PLASTICO</a></b></font>
+<br><br>
+Scaldate leggermente miele ed acqua.<br>
+Fate fondere il cioccolato (scegliete: a bagnomaria o nel microonde - in questo caso a
+ 450W per circa 2 minuti, interrompendo a metà e girando il cioccolato 
+in modo che sia fuso in modo omogeneo) ed aggiungete il miele e l'acqua, mescolando energicamente in modo che il composto sia molto liscio ed omogeneo. <br>
+Allargate quindi il composto su un piano e muovetelo con una spatola in modo che si raffreddi più velocemente.<br>
+<br>
+Lasciate riposare e raffreddare (eventualmente se avete fretta anche mettendo in freezer).<br>
+<br>
+Aggiungete la fecola ed impastate il composto aggiungendo pian piano anche lo zucchero a velo, continuando ad impastare (se il composto diventa troppo caldo ed unto - questo accade soprattutto col cioccolato bianco - mettetelo in frigorifero).<br>
+Incorporate bene lo zucchero a velo in modo che il composto diventi sempre più consistente e "solido".<br>
+Formate quindi un panetto che lascerete riposare per 5 minuti e poi stenderete aiutandovi con un mattarello di acciaio messo in freezer e spolverato con lo zucchero a velo (si può anche usare uno stendi pasta sui cui rulli avrete cosparso un po' di zucchero a velo).<br>
+<br>
+Quando la sfoglia sarà ben compatta e non grumosa allora il cioccolato sarà pronto.<br>
+<br>
+Riformate un panetto ed avvolgetelo nella pellicola trasparente. Potete conservarlo in frigorifero anche per un mese, basterà poi solo lavorarlo con le mani qualche minuto perché ritorni malleabile (è quindi consigliabile preparare il cioccolato plastico in anticipo rispetto a quando farete la torta che vorrete decorare, in modo da potervi poi concentrare solo su questa). <br>
+<br>
+Sbizzarritevi a creare le forme che preferite, alternando il cioccolato bianco a quello fondente in modo da formare accostamenti cromatici differenti. Se fate forme diverse le potete unire semplicemente bagnandole.<br>
+<br>
+Potete scegliere di aggiungere (al cioccolato bianco) dei coloranti alimentari sia liquidi che in polvere. Liquidi vanno aggiunti insieme con l'acqua, in polvere quando il panetto è pronto.<br>
+<br>
+Il sapore è simile a quello del cioccolato anche se con un retrogusto un po' più dolce ed una consistenza simile al marzapane.<br>
+Ricordatevi che non va usato in estate perché tende a sciogliersi e che se lo mettete su una torta conviene che questa sia stata spennellata di panna, sciroppo o marmellata, in modo che il cioccolato aderisca meglio. <br>
+<br>
+</div>
+
+
+
+</div>
+
+
+					
+				</td>			</tr>
+		</tbody>
+	</table>
+</div></div></div>
+
+<div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
+	<table class="wsite-multicol-table">
+		<tbody class="wsite-multicol-tbody">
+			<tr class="wsite-multicol-tr">
+				<td class="wsite-multicol-col" style="width:20.832591569146%; padding:0 15px;">
+					
+						
+
+<div><div id="675397292523925675" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><br>
+<br>
+<u>Ingredienti per una torta per 6 persone</u><br>
+<br>
+<u>Per la pasta</u>:
+<br>
+- 100 g di farina
+<br>
+- 50 g di fecola di patate
+<br>
+- 50 g di cacao amaro
+<br>
+- 6 uova
+<br>
+- 80 g di burro<br>
+- 150 g di zucchero
+<br>
+<br>
+<u>Per lo sciroppo</u>:<br>
+- 50 g di zucchero<br>
+- 1 dl di acqua<br>
+- 0,5 dl di liquore al mandarino<br>
+<br>
+<u>Per la ganache</u>:<br>
+- 300 g di cioccolato fondente meglio se Novi ;)<br>
+- 3 dl di panna<br>
+- 1 dl di amaretto<br>
+<br>
+<u>Per la guarnizione</u>:<br>
+- granella di cioccolato<br>
+- qualche ricciolo di cioccolato fondente e al latte<br>
+- due cucchiaini di cacao amaro<br></div>
+
+
+
+</div>
+
+
+					
+				</td>				<td class="wsite-multicol-col" style="width:79.167408430854%; padding:0 15px;">

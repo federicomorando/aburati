@@ -15,15 +15,15 @@ Se provi uno dei ristoranti, facci poi sapere cosa ne pensi!<br>
 Partiamo quindi e buona lettura.<br>
 <br>
 
-<a href="piemonte.html"><b>Piemonte</b></a><br>
+<a href="/aburativalentina.weebly.com/piemonte.html"><b>Piemonte</b></a><br>
 <br>
-<a href="giapponesi-in-piemonte.html"><b>Giappo in Piemonte</b></a><br>
+<a href="/aburativalentina.weebly.com/giapponesi-in-piemonte.html"><b>Giappo in Piemonte</b></a><br>
 <br>
-<a href="nord-italia.html"><b>Nord Italia</b></a><br>
+<a href="/aburativalentina.weebly.com/nord-italia.html"><b>Nord Italia</b></a><br>
 <br>
-<a href="sud-italia.html"><b>Sud Italia</b></a><br>
+<a href="/aburativalentina.weebly.com/sud-italia.html"><b>Sud Italia</b></a><br>
 <br>
-<a href="estero.html"><b>Estero</b></a><br></div>
+<a href="/aburativalentina.weebly.com/estero.html"><b>Estero</b></a><br></div>
 
 
 
