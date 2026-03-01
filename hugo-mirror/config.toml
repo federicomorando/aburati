@@ -1,0 +1,6 @@
+baseURL = "http://localhost:1314/"
+languageCode = "it"
+title = "aburativalentina mirror"
+
+enableRobotsTXT = false
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]

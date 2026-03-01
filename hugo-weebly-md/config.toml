@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1315/"
+languageCode = "it"
+title = "Valentina Aburati"
+uglyURLs = true
+enableRobotsTXT = false
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

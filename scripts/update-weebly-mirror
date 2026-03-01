@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$repo_root"
+
+mkdir -p mirror-source
+
+wget --mirror \
+  --page-requisites \
+  --convert-links \
+  --adjust-extension \
+  --span-hosts \
+  --domains=aburativalentina.weebly.com,cdn1.editmysite.com,cdn2.editmysite.com,cdn11.editmysite.com,ajax.googleapis.com,fonts.googleapis.com,fonts.gstatic.com \
+  --directory-prefix=mirror-source \
+  https://aburativalentina.weebly.com/ || true
+
+rm -rf hugo-mirror/static
+mkdir -p hugo-mirror/static
+cp -a mirror-source/* hugo-mirror/static/
+
+# Strip the Weebly "Powered by" footer banner from mirrored pages.
+for f in hugo-mirror/static/aburativalentina.weebly.com/*.html; do
+  perl -0777 -i -pe 's#<div id="weebly-footer-signup-container-v3">.*?<script type="text/javascript" src="\.\./cdn11\.editmysite\.com/js/site/footerSignup\.js[^"]*"></script>\s*<script type="text/javascript">.*?</script>##sg' "$f"
+done
+
+echo "Mirror refreshed in hugo-mirror/static"

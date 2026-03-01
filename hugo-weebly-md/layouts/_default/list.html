@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ .Title }} - Valentina Aburati</title>
+    <link id="wsite-base-style" rel="stylesheet" type="text/css" href="/cdn2.editmysite.com/css/sites.css%3FbuildTime=1472850974.css" />
+    <link rel="stylesheet" type="text/css" href="/cdn2.editmysite.com/css/old/fancybox.css%3F1472775615.css" />
+    <link rel="stylesheet" type="text/css" href="/aburativalentina.weebly.com/files/main_style.css%3F1472828606.css" title="wsite-theme-css" />
+    <link href='/fonts.googleapis.com/css%3Ffamily=Lato:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext.css' rel='stylesheet' type='text/css' />
+  </head>
+  <body class="{{ .Params.body_class }}">
+    <div class="header-wrap">
+      <div class="container">
+        <div id="header-container">
+          <table id="header">
+            <tr>
+              <td id="logo"><span class="wsite-logo"><a href="/aburativalentina.weebly.com/index.html"><span id="wsite-title">Valentina Aburati</span></a></span></td>
+              <td id="header-right"></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="main-wrap">
+      <div class="container">
+        <div id="topnav">
+          <ul class="wsite-menu-default">
+            <li class="wsite-menu-item-wrap"><a href="/aburativalentina.weebly.com/index.html" class="wsite-menu-item">Ogni cosa ha un suo posto...</a></li>
+            <li class="wsite-menu-item-wrap"><a href="/aburativalentina.weebly.com/le-mie-ricette.html" class="wsite-menu-item">Le mie Ricette</a></li>
+            <li class="wsite-menu-item-wrap"><a href="/aburativalentina.weebly.com/recensioni-di-ristoranti.html" class="wsite-menu-item">Recensioni di ristoranti</a></li>
+            <li class="wsite-menu-item-wrap"><a href="/aburativalentina.weebly.com/commenti.html" class="wsite-menu-item">Commenti</a></li>
+          </ul>
+          <div style="clear:both"></div>
+        </div>
+
+        <div id="banner"><div class="wsite-header"></div></div>
+        <div id="main">
+          <div id="content">
+            <div id="wsite-content" class="wsite-elements wsite-not-footer">
+              {{ .Content }}
+
+              <div class="paragraph">
+                <ul>
+                  {{ range .Pages.ByWeight }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
