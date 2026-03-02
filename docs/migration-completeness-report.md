@@ -56,3 +56,21 @@ Interpretation: these two entries are present in index links but the correspondi
 Migration is **functionally complete** for local Hugo usage and fidelity goals.
 
 Open residuals are limited to **2 known missing-source review entries** (`belvedere`, `credenza`), currently tracked as drafts.
+
+## Manual recovery attempts (Belvedere/Credenza)
+
+Additional checks were executed to recover missing Piemonte entries:
+
+- Local mirror/source grep (`mirror-source`, `hugo-weebly-md/static`, markdown content)
+- Live page text fetch via `r.jina.ai/http://aburativalentina.weebly.com/piemonte.html`
+- Wayback snapshot listing and direct fetches:
+  - `20250217195504`
+  - `20250426072244`
+  - `20250713103557`
+  - `20251115234742`
+
+Outcome:
+
+- `#credenza` and `#belvedere` are present only as index links.
+- No corresponding content anchors/body blocks are present in checked snapshots.
+- Draft placeholders remain the correct representation until another source is found.

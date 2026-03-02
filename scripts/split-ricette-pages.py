@@ -175,6 +175,7 @@ def main() -> int:
             title = clean_index_title(html_to_text(hm.group(1)))
             if title:
                 headings.append((hm.start(), title))
+        heading_positions = [h[0] for h in headings]
 
         ordered_detected = [a for a, _ in index_items if a and a in anchor_to_pos]
         generated = []
@@ -226,8 +227,10 @@ def main() -> int:
                             break
                     if inferred_anchor and inferred_anchor in anchor_to_pos:
                         start = anchor_to_pos[inferred_anchor]
-                        next_starts = [anchor_to_pos[a] for a in ordered_detected if anchor_to_pos[a] > start]
-                        end = min(next_starts) if next_starts else len(body)
+                        next_starts = [pos for _, pos in anchor_to_pos.items() if pos > start]
+                        next_heads = [pos for pos in heading_positions if pos > start]
+                        candidates = next_starts + next_heads
+                        end = min(candidates) if candidates else len(body)
                         chunk = body[start:end].strip()
                         chunk = BACKLINK_RE.sub("", chunk).strip()
                         chunk = re.sub(r'^\s*<a\s+name="[^"]+"\s*>', "", chunk, flags=re.IGNORECASE).strip()
@@ -256,8 +259,10 @@ def main() -> int:
                 continue
 
             start = anchor_to_pos[anchor]
-            next_starts = [anchor_to_pos[a] for a in ordered_detected if anchor_to_pos[a] > start]
-            end = min(next_starts) if next_starts else len(body)
+            next_starts = [pos for _, pos in anchor_to_pos.items() if pos > start]
+            next_heads = [pos for pos in heading_positions if pos > start]
+            candidates = next_starts + next_heads
+            end = min(candidates) if candidates else len(body)
             chunk = body[start:end].strip()
             chunk = BACKLINK_RE.sub("", chunk).strip()
             chunk = re.sub(r'^\s*<a\s+name="[^"]+"\s*>', "", chunk, flags=re.IGNORECASE).strip()
